@@ -1,0 +1,3481 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Fabrique numérique des ministères sociaux",
+      "children": [
+        {
+          "id": "1000.jours",
+          "name": "1000 premiers jours - l'app",
+          "pitch": "Accompagner les parents les 1000 premiers jours de l’enfant",
+          "repository": "https://github.com/SocialGouv/1000jours",
+          "link": "https://1000jours.fabrique.social.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-11-01",
+          "value": 10
+        },
+        {
+          "id": "1000.premiers.jours.blues",
+          "name": "1000 premiers jours Blues",
+          "pitch": "Aider les parents en difficulté psychologique qui on besoin d’écoute et les orienter vers les bons professionnels de santé",
+          "repository": "https://github.com/SocialGouv/nos1000jours-blues-epds-widget",
+          "link": "https://1000jours-blues.fabrique.social.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-07-04",
+          "value": 8
+        },
+        {
+          "id": "aides.jeunes",
+          "name": "Aides Jeunes",
+          "pitch": "Faciliter le recours aux aides par les jeunes qui en ont le plus besoin ",
+          "repository": "https://github.com/betagouv/aides-jeunes",
+          "link": "https://mes-aides.1jeune1solution.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-03-15",
+          "value": 13
+        },
+        {
+          "id": "archifiltre",
+          "name": "Archifiltre",
+          "pitch": "Appréhender des ensembles volumineux de fichiers pour mieux les gérer, les trier et y retrouver de l'information",
+          "repository": "https://github.com/SocialGouv/archifiltre",
+          "link": "https://archifiltre.fabrique.social.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2018-03-04",
+          "value": 9
+        },
+        {
+          "id": "codedutravail",
+          "name": "Code du travail numérique",
+          "pitch": "Faciliter l'accès au droit du travail pour les entreprises et les employés.",
+          "repository": "https://github.com/SocialGouv/code-du-travail-numerique",
+          "link": "https://code.travail.gouv.fr",
+          "phase": "success",
+          "phaseStart": "2021-01-01",
+          "value": 17
+        },
+        {
+          "id": "conventionnement.iae",
+          "name": "Conventionnement IAE",
+          "pitch": "Investiguer les problèmes liés au conventionnement des Structures de l'Insertion par l'Activité Economique (SIAE) auprès des services de l'État.",
+          "link": "",
+          "phase": "alumni",
+          "phaseStart": "2022-06-02",
+          "value": 1
+        },
+        {
+          "id": "didoc",
+          "name": "DIDOC",
+          "pitch": "Dématérialiser les invitations au dépistage organisé des cancers",
+          "phase": "alumni",
+          "phaseStart": "2020-03-15",
+          "value": 5
+        },
+        {
+          "id": "domifa",
+          "name": "DomiFa",
+          "pitch": "Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation",
+          "repository": "https://github.com/SocialGouv/domifa",
+          "link": "https://domifa.fabrique.social.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2020-01-01",
+          "value": 11
+        },
+        {
+          "id": "e-mjpm",
+          "name": "e-MJPM",
+          "pitch": "Trouver rapidement le bon professionnel pour les majeurs à protéger",
+          "repository": "https://github.com/SocialGouv/emjpm",
+          "link": "https://emjpm.fabrique.social.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-04-01",
+          "value": 9
+        },
+        {
+          "id": "egalite.professionnelle",
+          "name": "Egalité professionnelle",
+          "pitch": "Calculer et transmettre l'index d'égalité professionnelle aux entreprises",
+          "repository": "https://github.com/SocialGouv/egapro",
+          "link": "https://index-egapro.travail.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-11-17",
+          "value": 6
+        },
+        {
+          "id": "enfants-du-spectacle",
+          "name": "Enfants Du Spectacle",
+          "pitch": "Simplifier les demandes d’emploi pour renforcer la protection des enfants",
+          "repository": "https://github.com/SocialGouv/enfants-du-spectacle",
+          "phase": "acceleration",
+          "phaseStart": "2022-09-01",
+          "value": 5
+        },
+        {
+          "id": "ethique.en.sante.numerique",
+          "name": "Ethique en santé numérique",
+          "pitch": "Recueillir les signalements d’ordre éthique sur l’utilisation du numérique en santé",
+          "phase": "alumni",
+          "phaseStart": "2022-03-01",
+          "value": 1
+        },
+        {
+          "id": "fiche.commune.entreprise.fce",
+          "name": "Fiche Commune Entreprise",
+          "pitch": "Faciliter l’accès aux  informations disponibles sur les entreprises et les échanges entre les agents publics",
+          "repository": "https://github.com/SocialGouv/fce",
+          "link": "https://fce.fabrique.social.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-04-01",
+          "value": 4
+        },
+        {
+          "id": "l-application-du-cej",
+          "name": "L'application du CEJ",
+          "pitch": "Contrat Engagement Jeune : Aider les jeunes les plus éloignés de l'emploi à trouver leur voie",
+          "repository": "https://github.com/SocialGouv/pass_emploi_app",
+          "link": "https://www.1jeune1solution.gouv.fr/contrat-engagement-jeune",
+          "phase": "acceleration",
+          "phaseStart": "2022-03-01",
+          "value": 38
+        },
+        {
+          "id": "mano",
+          "name": "MANO",
+          "pitch": "Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.",
+          "repository": "https://github.com/SocialGouv/mano/",
+          "phase": "acceleration",
+          "phaseStart": "2021-08-01",
+          "value": 4
+        },
+        {
+          "id": "maraudes",
+          "name": "maraudes",
+          "pitch": "Accompagner l'insertion des personnes à la rue",
+          "phase": "alumni",
+          "phaseStart": "2020-01-01",
+          "value": 2
+        },
+        {
+          "id": "medle",
+          "name": "Medlé",
+          "pitch": "Consigner l'activité de la médecine légale réalisée sur réquisition judiciaire",
+          "repository": "https://github.com/SocialGouv/medle",
+          "link": "https://medle.fabrique.social.gouv.fr/",
+          "phase": "alumni",
+          "phaseStart": "2021-12-01",
+          "value": 2
+        },
+        {
+          "id": "monpsy",
+          "name": "MonPsy",
+          "pitch": "L’accès à un accompagnement psychologique pour tous dès 3 ans",
+          "repository": "https://github.com/SocialGouv/mon-psy-sante",
+          "link": "https://monpsy.sante.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-09-01",
+          "value": 8
+        },
+        {
+          "id": "monsuivipsy",
+          "name": "Jardin mental",
+          "pitch": "Mieux connaître ses symptômes pour un meilleur accompagnement médical",
+          "repository": "https://github.com/SocialGouv/monsuivipsy",
+          "link": "https://monsuivipsy.fabrique.social.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-06-01",
+          "value": 2
+        },
+        {
+          "id": "ozensemble",
+          "name": "Oz Ensemble",
+          "pitch": "Offrir à tous un accès simple aux soins en addictologie",
+          "repository": "https://github.com/SocialGouv/ozensemble",
+          "link": "https://www.ozensemble.fr/",
+          "phase": "construction",
+          "phaseStart": "2020-02-01",
+          "value": 4
+        },
+        {
+          "id": "pmi",
+          "name": "PMI",
+          "pitch": "Résoudre les difficlutés rencontrées par les agents et les usagers de la Protection maternelle et infantile",
+          "phase": "alumni",
+          "phaseStart": "2021-10-01",
+          "value": 1
+        },
+        {
+          "id": "psyenfantado",
+          "name": "PsyEnfantAdo",
+          "pitch": "Permettre un accompagnement psychologique des enfants et ados",
+          "repository": "https://github.com/betagouv/psy-enfant-ado",
+          "link": "https://www.psyenfantado.sante.gouv.fr/",
+          "phase": "alumni",
+          "phaseStart": "2022-01-31",
+          "value": 4
+        },
+        {
+          "id": "qualite-eau",
+          "name": "Qualité de l'eau",
+          "pitch": "Permettre aux agents ARS de gagner en efficacité dans les actions d'inspection et de prévention",
+          "phase": "alumni",
+          "phaseStart": "2022-05-01",
+          "value": 1
+        },
+        {
+          "id": "reva",
+          "name": "REVA",
+          "pitch": "Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)",
+          "link": "https://reva.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-07-01",
+          "value": 22
+        },
+        {
+          "id": "tremplin",
+          "name": "Tremplin",
+          "pitch": "Rapprocher les professionnels de santé de leur futur territoire d’exercice",
+          "phase": "alumni",
+          "phaseStart": "2020-01-01",
+          "value": 3
+        },
+        {
+          "id": "tumeplay",
+          "name": "TuMePlay",
+          "pitch": "Accompagner les jeunes dans leur parcours d’apprentissage en santé sexuelle de manière ludique et fiable",
+          "repository": "https://github.com/SocialGouv/tumeplay",
+          "link": "https://tumeplay.fabrique.social.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 4
+        },
+        {
+          "id": "workinfrance",
+          "name": "Work in France",
+          "pitch": "La plateforme de demande d’autorisations provisoires de travail",
+          "repository": "https://github.com/SocialGouv/work-in-france",
+          "link": "http://workinfrance.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-04-01",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "L'Incubateur de Services Numériques (DINUM)",
+      "children": [
+        {
+          "id": "AidESS-Relance",
+          "name": "AidESS",
+          "pitch": "Simplifier l'accès aux aides et aux financements publics des structures d'Économie Sociale et Solidaire",
+          "phase": "alumni",
+          "phaseStart": "2021-06-04",
+          "value": 5
+        },
+        {
+          "id": "andi",
+          "name": "ANDi",
+          "pitch": "Faciliter l'immersion professionnelle des personnes en situation de handicap",
+          "repository": "https://github.com/betagouv/andi",
+          "phase": "alumni",
+          "phaseStart": "2020-05-15",
+          "value": 3
+        },
+        {
+          "id": "api-drones",
+          "name": "API Drones",
+          "pitch": "Améliorer la connaissance du ciel pour plus de sécurité et d'innovation",
+          "repository": "https://framagit.org/drone",
+          "phase": "construction",
+          "phaseStart": "2017-06-01",
+          "value": 1
+        },
+        {
+          "id": "au-compost-mitoyen",
+          "name": "Au Compost Mitoyen !",
+          "pitch": "Faciliter le déploiement de composteurs collectifs et encourager leur utilisation",
+          "repository": "https://github.com/betagouv/poubellesbattle",
+          "link": "http://aucompostmitoyen.fr/",
+          "phase": "alumni",
+          "phaseStart": "2021-09-01",
+          "value": 2
+        },
+        {
+          "id": "authentification",
+          "name": "Authentification",
+          "pitch": "Proposer un serveur d'authentification centralisé avec notamment un envoi de code par la messagerie Tchap",
+          "repository": "https://github.com/tchapgouv/tchap-identite",
+          "link": "https://authentification.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2022-04-01",
+          "value": 4
+        },
+        {
+          "id": "auvol",
+          "name": "Saisissez au vol !",
+          "pitch": "Soutenir les agents qui assurent la sécurité aérienne",
+          "phase": "investigation",
+          "phaseStart": "2019-03-01",
+          "value": 3
+        },
+        {
+          "id": "bourse",
+          "name": "Bourse",
+          "pitch": "Demander et liquider une bourse de collège en ligne",
+          "repository": "https://github.com/betagouv/bourses/",
+          "phase": "construction",
+          "phaseStart": "2015-03-01",
+          "value": 2
+        },
+        {
+          "id": "boussole",
+          "name": "Boussole des droits",
+          "pitch": "Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi",
+          "repository": "https://github.com/betagouv/boussole",
+          "phase": "investigation",
+          "phaseStart": "2015-12-01",
+          "value": 1
+        },
+        {
+          "id": "cartobio",
+          "name": "CartoBio",
+          "pitch": "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique",
+          "repository": "https://github.com/AgenceBio/cartobio-front",
+          "link": "https://cartobio.org",
+          "phase": "construction",
+          "phaseStart": "2019-12-19",
+          "value": 8
+        },
+        {
+          "id": "classe-a-12",
+          "name": "Classe à 12",
+          "pitch": "Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.",
+          "repository": "https://github.com/betagouv/ClasseA12",
+          "link": "https://classe-a-12.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2018-06-01",
+          "value": 6
+        },
+        {
+          "id": "cmachance",
+          "name": "Cmachance",
+          "pitch": "Augmenter le nombre d'apprentis dans l'artisanat",
+          "link": "https://www.cmachance.fr/",
+          "phase": "alumni",
+          "phaseStart": "2020-11-30",
+          "value": 5
+        },
+        {
+          "id": "cnr",
+          "name": "CNR",
+          "pitch": "Consulter citoyens, élus et corps intermédiaires sur les grandes thématiques du quinquennat. ",
+          "repository": "https://github.com/betagouv/CNR",
+          "link": "https://conseil-refondation.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-10-27",
+          "value": 7
+        },
+        {
+          "id": "coursconsult",
+          "name": "Investigation Cour des Comptes 2021",
+          "pitch": "Partager aux petites collectivités les connaissances des CRTC / permettre de consulter les citoyens sur les grandes politiques publiques.",
+          "phase": "investigation",
+          "phaseStart": "2021-09-03",
+          "value": 1
+        },
+        {
+          "id": "data-subvention",
+          "name": "Data.Subvention",
+          "pitch": "Améliorer le pilotage des subventions de l’État des associations et simplifier leurs démarches",
+          "repository": "https://github.com/betagouv/api-subventions-asso",
+          "link": "https://datasubvention.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2022-01-03",
+          "value": 12
+        },
+        {
+          "id": "data.gouv.fr",
+          "name": "data.gouv.fr",
+          "pitch": "Partager, améliorer et réutiliser les données publiques.",
+          "repository": "https://github.com/opendatateam/udata",
+          "link": "https://www.data.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2013-06-01",
+          "value": 5
+        },
+        {
+          "id": "delta.v",
+          "name": "Delta V",
+          "pitch": "Déclarer des marchandises achetées à l'étranger en arrivant en France",
+          "link": "https://declare-douane.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2021-12-20",
+          "value": 6
+        },
+        {
+          "id": "demarches-simplifiees.fr",
+          "name": "Démarches Simplifiées",
+          "pitch": "Dématérialiser n’importe quelle démarche administrative en quelques minutes",
+          "repository": "https://github.com/betagouv/tps",
+          "link": "https://www.demarches-simplifiees.fr",
+          "phase": "construction",
+          "phaseStart": "2015-09-15",
+          "value": 27
+        },
+        {
+          "id": "devoirs-faits-communaute",
+          "name": "Devoirs Faits la Communauté",
+          "pitch": "Faciliter les échanges de pratiques entre pairs autour du dispositif « devoirs faits ».",
+          "repository": "https://github.com/betagouv/ClasseA12/tree/devoirs-faits",
+          "link": "https://devoirs-faits-communaute.beta.gouv.fr/",
+          "phase": "investigation",
+          "phaseStart": "2021-02-01",
+          "value": 3
+        },
+        {
+          "id": "diagoriente",
+          "name": "DiagOriente",
+          "pitch": "Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations",
+          "repository": "https://github.com/betagouv/diagoriente-front",
+          "link": "https://diagoriente.beta.gouv.fr/",
+          "phase": "alumni",
+          "phaseStart": "2021-12-20",
+          "value": 10
+        },
+        {
+          "id": "dossiersco",
+          "name": "DossierSCO",
+          "pitch": "Inscrire son enfant au collège en quelques clics",
+          "repository": "https://github.com/betagouv/dossiersco",
+          "link": "https://affectionate-easley-2194cc.netlify.com/",
+          "phase": "alumni",
+          "phaseStart": "2019-09-15",
+          "value": 5
+        },
+        {
+          "id": "dumas",
+          "name": "Dumas",
+          "pitch": "Résoudre les problèmes rencontrés par le réseau culturel français à l'étranger",
+          "phase": "alumni",
+          "phaseStart": "2021-05-01",
+          "value": 3
+        },
+        {
+          "id": "e-controle",
+          "name": "E-contrôle",
+          "pitch": "Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées",
+          "repository": "https://github.com/betagouv/e-controle",
+          "link": "https://e-controle-beta.ccomptes.fr",
+          "phase": "success",
+          "phaseStart": "2020-09-01",
+          "value": 4
+        },
+        {
+          "id": "e-inspé",
+          "name": "E-Inspé",
+          "pitch": "Améliorer le développement professionnel des enseignants",
+          "phase": "construction",
+          "phaseStart": "2020-06-10",
+          "value": 2
+        },
+        {
+          "id": "eac",
+          "name": "Plateforme EAC",
+          "pitch": "Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires",
+          "repository": "https://github.com/betagouv/eac",
+          "link": "https://education-artistique-culturelle.fr",
+          "phase": "alumni",
+          "phaseStart": "2019-12-01",
+          "value": 4
+        },
+        {
+          "id": "etudiant-entrepreneur",
+          "name": "Étudiant entrepreneur",
+          "pitch": "Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices",
+          "repository": "https://github.com/betagouv/etudiant-entrepreneur",
+          "link": "https://snee.esr.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2016-06-23",
+          "value": 1
+        },
+        {
+          "id": "eva",
+          "name": "eva (ex Compétences pro)",
+          "pitch": "Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels",
+          "repository": "https://github.com/betagouv/eva/",
+          "link": "https://eva.beta.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2021-12-30",
+          "value": 16
+        },
+        {
+          "id": "fiches-de-banc",
+          "name": "Fiches de banc",
+          "pitch": "Augmenter la productivité du traitement des amendements dans les cabinets ministériels",
+          "repository": "https://github.com/betagouv/fiches-de-banc",
+          "phase": "alumni",
+          "phaseStart": "2016-01-09",
+          "value": 1
+        },
+        {
+          "id": "gap",
+          "name": "GAP 2.0 (Gestion Archives Papier)",
+          "pitch": "Améliorer l'accompagnement de la gestion des archives papier",
+          "phase": "alumni",
+          "phaseStart": "2021-03-02",
+          "value": 1
+        },
+        {
+          "id": "geo.data.gouv.fr",
+          "name": "geo.data.gouv.fr",
+          "pitch": "Trouver facilement les données géographiques dont vous avez besoin",
+          "repository": "https://github.com/etalab/geo.data.gouv.fr",
+          "link": "https://geo.data.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2015-01-01",
+          "value": 3
+        },
+        {
+          "id": "gps-usagers",
+          "name": "GPS Usagers",
+          "pitch": "Orienter les usagers du Calvados vers le bon interlocuteur et le bon moyen de communication",
+          "repository": "https://github.com/betagouv/gps-usagers",
+          "link": "https://www.calvados.fr/contact",
+          "phase": "construction",
+          "phaseStart": "2018-10-01",
+          "value": 2
+        },
+        {
+          "id": "guichet-entreprises-nc",
+          "name": "Guichet-entreprises.nc",
+          "pitch": "Faciliter les démarches administratives des entreprises calédoniennes",
+          "link": "https://guichet-entreprises.nc/",
+          "phase": "acceleration",
+          "phaseStart": "2020-01-01",
+          "value": 2
+        },
+        {
+          "id": "inca",
+          "name": "Lab Agora",
+          "pitch": "Améliorer la mise en relation des acteurs qui œuvrent pour l’amélioration de la vie des patients atteints de cancer",
+          "repository": "https://github.com/betagouv/inca-app",
+          "link": "https://lab-agora.softr.app",
+          "phase": "alumni",
+          "phaseStart": "2022-01-10",
+          "value": 6
+        },
+        {
+          "id": "leximpact",
+          "name": "LexImpact",
+          "pitch": "Aider nos parlementaires à estimer les impacts de leurs amendements avant vote.",
+          "repository": "https://git.leximpact.dev/leximpact",
+          "link": "https://leximpact.an.fr",
+          "phase": "success",
+          "phaseStart": "2020-01-03",
+          "value": 6
+        },
+        {
+          "id": "logement-crise",
+          "name": "Logement de crise",
+          "pitch": "Faciliter le travail d’attribution du “bon” logement aux déplacés d’Ukraine",
+          "value": 1
+        },
+        {
+          "id": "ma-cantine-egalim",
+          "name": "Ma Cantine",
+          "pitch": "Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable",
+          "repository": "https://github.com/betagouv/ma-cantine",
+          "link": "https://ma-cantine.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2022-01-01",
+          "value": 12
+        },
+        {
+          "id": "mdph",
+          "name": "MDPH en ligne",
+          "pitch": "Faciliter les demandes de compensation du handicap auprès des MDPH",
+          "repository": "https://github.com/betagouv/mdph",
+          "link": "https://mdphenligne.cnsa.fr",
+          "phase": "construction",
+          "phaseStart": "2014-12-01",
+          "value": 2
+        },
+        {
+          "id": "mes-aides",
+          "name": "Mes Aides",
+          "pitch": "Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.",
+          "repository": "https://github.com/betagouv/mes-aides-ui",
+          "link": "https://mes-aides.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2020-03-03",
+          "value": 3
+        },
+        {
+          "id": "messagerie.instantanee.sante",
+          "name": "Messagerie Instantanée Santé",
+          "pitch": "Faciliter et sécuriser les communications des professionnels de santé",
+          "phase": "investigation",
+          "phaseStart": "2022-10-24",
+          "value": 1
+        },
+        {
+          "id": "metiers-numeriques",
+          "name": "Métiers du Numérique",
+          "pitch": "Promouvoir les emplois numériques de l'État pour y attirer les meilleurs talents",
+          "repository": "https://github.com/betagouv/metiers-numeriques",
+          "link": "https://metiers.numerique.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-05-16",
+          "value": 6
+        },
+        {
+          "id": "mon-entreprise",
+          "name": "Mon-entreprise",
+          "pitch": "Guider les créateurs et créatrices d’entreprise.",
+          "repository": "https://github.com/betagouv/mon-entreprise",
+          "link": "https://mon-entreprise.urssaf.fr",
+          "phase": "success",
+          "phaseStart": "2020-03-01",
+          "value": 11
+        },
+        {
+          "id": "moncomptepro",
+          "name": "MonComptePro",
+          "pitch": "Nous identifions vos utilisateurs professionnels du privé ou du public.",
+          "repository": "https://github.com/betagouv/moncomptepro",
+          "link": "https://moncomptepro.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2022-04-22",
+          "value": 7
+        },
+        {
+          "id": "mpal",
+          "name": "Les aides de l’Anah",
+          "pitch": "Accéder rapidement et simplement aux aides à l’habitat privé",
+          "link": "https://monprojet.anah.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2016-05-01",
+          "value": 2
+        },
+        {
+          "id": "mps",
+          "name": "Marchés Publics Simplifiés",
+          "pitch": "Candidater en ligne à un Marché Public avec uniquement son SIRET",
+          "link": "https://mps.apientreprise.fr",
+          "phase": "construction",
+          "phaseStart": "2014-01-01",
+          "value": 3
+        },
+        {
+          "id": "mrs",
+          "name": "Mes remboursements simplifiés (MRS)",
+          "pitch": "Simplifier et accélérer le remboursement des frais d'utilisation de véhicule personnel ou transports en commun.",
+          "repository": "https://github.com/betagouv/mrs",
+          "link": "https://mrs.beta.gouv.fr",
+          "phase": "success",
+          "phaseStart": "2020-09-01",
+          "value": 8
+        },
+        {
+          "id": "nc.connect",
+          "name": "NC Connect",
+          "pitch": "Simplifier l'accès aux services publics numériques calédoniens",
+          "link": "https://connect.gouv.nc/",
+          "phase": "acceleration",
+          "phaseStart": "2021-04-13",
+          "value": 1
+        },
+        {
+          "id": "non-recours-spie",
+          "name": "Non-recours au service public de l'insertion et de l'emploi",
+          "pitch": "Faciliter l'accès des personnes dites 'invisibles' aux dispositifs d'accompagnement vers l'emploi",
+          "phase": "alumni",
+          "phaseStart": "2021-12-31",
+          "value": 3
+        },
+        {
+          "id": "notifications",
+          "name": "Notifications",
+          "pitch": "Améliorer la qualité des communications entre les administrations et les citoyens",
+          "phase": "construction",
+          "phaseStart": "2022-04-05",
+          "value": 5
+        },
+        {
+          "id": "ogptoolbox",
+          "name": "OGP Toolbox",
+          "pitch": "Trouver des outils numériques pour améliorer la démocratie",
+          "repository": "https://github.com/ogptoolbox/ogptoolbox-ui",
+          "link": "https://ogptoolbox.org/",
+          "phase": "construction",
+          "phaseStart": "2016-06-08",
+          "value": 1
+        },
+        {
+          "id": "open-academie",
+          "name": "Open Académie",
+          "pitch": "Construire le lycée et le collège de demain",
+          "repository": "https://github.com/betagouv/open-academie",
+          "link": "https://openacademie.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2015-01-01",
+          "value": 3
+        },
+        {
+          "id": "oufaalim",
+          "name": "OuFaAlim'",
+          "pitch": "Faciliter la vie des acteurs de la lutte contre la précarité alimentaire",
+          "phase": "alumni",
+          "phaseStart": "2021-09-28",
+          "value": 1
+        },
+        {
+          "id": "parcours.de.saisine",
+          "name": "Parcours de saisine",
+          "pitch": "Faciliter la saisine du Défenseur des Droits par les usager·e·s, tout en permettant un traitement des dossiers plus efficace par les juristes et les délégué·e·s",
+          "phase": "alumni",
+          "phaseStart": "2022-10-01",
+          "value": 2
+        },
+        {
+          "id": "participation-citoyenne",
+          "name": "Participation Citoyenne",
+          "pitch": "Augmenter et démontrer l'impact des démarches de consultation citoyenne",
+          "phase": "alumni",
+          "phaseStart": "2020-11-30",
+          "value": 1
+        },
+        {
+          "id": "pass-culture",
+          "name": "Pass Culture",
+          "pitch": "Faciliter l'accès des jeunes à la culture",
+          "repository": "https://pass-culture.gitbook.io/documents/informations-techniques#code-source",
+          "link": "https://pass.culture.fr",
+          "phase": "success",
+          "phaseStart": "2021-05-01",
+          "value": 46
+        },
+        {
+          "id": "pass.engagement.jeune",
+          "name": "Pass Engagement Jeune",
+          "pitch": "Proposer aux jeunes en CEJ des avantages sur des biens et services essentiels pour lever les freins économiques à l'insertion professionnelle",
+          "phase": "investigation",
+          "phaseStart": "2022-05-15",
+          "value": 4
+        },
+        {
+          "id": "peps",
+          "name": "Peps",
+          "pitch": "Faciliter la transition du modèle agricole grâce au partage d'expériences",
+          "repository": "https://github.com/betagouv/peps",
+          "link": "https://rex-agri.agroecologie.org/",
+          "phase": "alumni",
+          "phaseStart": "2021-12-31",
+          "value": 3
+        },
+        {
+          "id": "pix",
+          "name": "Pix",
+          "pitch": "Mesurer, développer et valoriser ses compétences numériques.",
+          "repository": "https://github.com/1024pix/pix/",
+          "link": "https://pix.fr",
+          "phase": "construction",
+          "phaseStart": "2016-06-08",
+          "value": 5
+        },
+        {
+          "id": "plante-et-moi",
+          "name": "Plante & Moi",
+          "pitch": "Augmenter la présence de la nature en ville",
+          "repository": "https://github.com/betagouv/plante-et-moi",
+          "phase": "alumni",
+          "phaseStart": "2020-08-01",
+          "value": 2
+        },
+        {
+          "id": "plateforme.impact",
+          "name": "Projet Impact",
+          "pitch": "Le meilleur moyen pour les entreprises de déclarer leur performance extra-financière",
+          "repository": "",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2022-05-17",
+          "value": 6
+        },
+        {
+          "id": "psi",
+          "name": "Prélèvement à la source pour les indépendants",
+          "pitch": "Simplifier radicalement le règlement des cotisations sociales par les indépendants",
+          "phase": "investigation",
+          "phaseStart": "2018-01-01",
+          "value": 1
+        },
+        {
+          "id": "rdv.consulat",
+          "name": "Rdv consulat",
+          "pitch": "Réduire les difficultés liées aux prises de rendez-vous dans les consulats",
+          "phase": "alumni",
+          "phaseStart": "2021-03-05",
+          "value": 1
+        },
+        {
+          "id": "recosante",
+          "name": "Recosanté",
+          "pitch": "Réduire l’exposition aux facteurs environnementaux nocifs pour la santé",
+          "repository": "https://github.com/betagouv/recosante/",
+          "link": "https://recosante.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-06-01",
+          "value": 13
+        },
+        {
+          "id": "retraite",
+          "name": "Mes démarches retraite pas à pas",
+          "pitch": "Obtenir en quelques clics la liste personnalisée de ses démarches de retraite",
+          "repository": "https://github.com/betagouv/retraite",
+          "link": "https://mesdemarchesretraite.fr",
+          "phase": "construction",
+          "phaseStart": "2015-10-01",
+          "value": 1
+        },
+        {
+          "id": "reuni",
+          "name": "Reuni",
+          "pitch": "Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent",
+          "phase": "alumni",
+          "phaseStart": "2019-03-01",
+          "value": 2
+        },
+        {
+          "id": "sante-psy-etudiant",
+          "name": "Santé Psy Étudiant",
+          "pitch": "Permettre aux étudiants d'être accompagnés psychologiquement gratuitement et sans avance de frais",
+          "repository": "https://github.com/betagouv/sante-psy/",
+          "link": "https://santepsy.etudiant.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-09-01",
+          "value": 10
+        },
+        {
+          "id": "sndv_maritime",
+          "name": "ANDV - Maritime - MOANA",
+          "pitch": "Améliorer le traitement des données de voyages du transport maritime à des fins de contrôle et de sûreté",
+          "repository": "https://gitlab.mim-libre.fr/sndv-maritime/moana",
+          "link": "https://moana.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-09-01",
+          "value": 14
+        },
+        {
+          "id": "sppnaut",
+          "name": "SPPNaut",
+          "pitch": "Faciliter l'utilisation des publications nautiques en numérisant les données qu'elles contiennent",
+          "phase": "construction",
+          "phaseStart": "2022-01-17",
+          "value": 7
+        },
+        {
+          "id": "talents.numeriques",
+          "name": "Talents numériques",
+          "pitch": "Créer une communauté de partage, valoriser les expertises des agents du numérique et faciliter la mise en relation",
+          "phase": "construction",
+          "phaseStart": "2021-09-01",
+          "value": 2
+        },
+        {
+          "id": "tchap",
+          "name": "Tchap",
+          "pitch": "Proposer une messagerie instantanée, sécurisée et souveraine aux agents publics",
+          "repository": "https://github.com/tchapgouv",
+          "link": "https://tchap.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-03-05",
+          "value": 21
+        },
+        {
+          "id": "tous.a.bord",
+          "name": "Tous à bord !",
+          "pitch": "Automatiser l'octroi de la tarification sociale et solidaire des transports partout en France",
+          "phase": "construction",
+          "phaseStart": "2022-11-01",
+          "value": 5
+        },
+        {
+          "id": "trait-d-union",
+          "name": "Trait d'Union",
+          "pitch": "Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux",
+          "repository": "https://github.com/betagouv/trait-d-union",
+          "phase": "alumni",
+          "phaseStart": "2019-12-01",
+          "value": 2
+        },
+        {
+          "id": "tutorat_fp",
+          "name": "Tutorat pour les concours de la fonction publique",
+          "pitch": "Améliorer l'égalité des chances aux concours de la fonction publique grâce au développement du tutorat.",
+          "link": "https://www.tutorat.fonction-publique.gouv.fr/",
+          "phase": "alumni",
+          "phaseStart": "2022-06-09",
+          "value": 4
+        },
+        {
+          "id": "urbaclic",
+          "name": "Urbaclic",
+          "pitch": "Accéder aux règles d'urbanisme en quelques clics",
+          "repository": "https://github.com/betagouv/urbaclic",
+          "link": "http://www.opendatalab.fr/urbaclic",
+          "phase": "construction",
+          "phaseStart": "2016-03-01",
+          "value": 1
+        },
+        {
+          "id": "urbanvitaliz",
+          "name": "UrbanVitaliz (Friches)",
+          "pitch": "Faciliter la réhabilitation des friches urbaines",
+          "repository": "https://github.com/betagouv/urbanvitaliz-django",
+          "link": "https://urbanvitaliz.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-12-01",
+          "value": 14
+        },
+        {
+          "id": "visam",
+          "name": "Visam",
+          "pitch": "Fluidifier le dialogue social de la  « Direction des ressources humaines » de l’État.",
+          "repository": "https://github.com/betagouv/visam",
+          "phase": "alumni",
+          "phaseStart": "2020-12-14",
+          "value": 2
+        },
+        {
+          "id": "voir-et-localiser",
+          "name": "Voir & Localiser",
+          "pitch": "Voir et localiser les appelants aux centres d'appels d'urgence",
+          "phase": "alumni",
+          "phaseStart": "2019-10-01",
+          "value": 3
+        },
+        {
+          "id": "zam",
+          "name": "Zam",
+          "pitch": "Alléger la charge de préparation par le gouvernement du débat parlementaire.",
+          "repository": "https://github.com/betagouv/zam",
+          "phase": "alumni",
+          "phaseStart": "2020-07-01",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "L'Incubateur des Territoires (ANCT)",
+      "children": [
+        {
+          "id": "Mon-suivi-social",
+          "name": "Mon suivi social",
+          "pitch": "Libérer du temps pour l'accompagnement social grâce à une solution simple, intuitive et sécurisée.",
+          "repository": "https://gitlab.com/incubateur-territoires/startups/monsuivisocial",
+          "link": "https://monsuivisocial.incubateur.anct.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2022-03-01",
+          "value": 6
+        },
+        {
+          "id": "Part'âge",
+          "name": "Part'âge",
+          "pitch": "Résorber lisolement des personnes agées par une autonomisation face aux moyens numériques",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "accueil-telephonique-uts",
+          "name": "Accueil UTS",
+          "pitch": "Orienter les usagers vers le bon service et faciliter la prise de rendez-vous au sein du département",
+          "phase": "alumni",
+          "phaseStart": "2019-07-15",
+          "value": 3
+        },
+        {
+          "id": "aidantsconnect",
+          "name": "Aidants Connect",
+          "pitch": "Réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule",
+          "repository": "https://github.com/betagouv/Aidants_Connect",
+          "link": "https://aidantsconnect.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 19
+        },
+        {
+          "id": "allo62",
+          "name": "Allo 62",
+          "pitch": "Trouver le bon interlocuteur au sein du département",
+          "phase": "construction",
+          "phaseStart": "2021-03-01",
+          "value": 4
+        },
+        {
+          "id": "anct-pni-1",
+          "name": "Prévenir et gérer les risques hydrologiques",
+          "pitch": "Programme national d'investigation (1)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-10",
+          "name": "Réduire les pics d’affluence en agence lors de la rentrée scolaire, notamment grâce à linscription et le paiement dématérialisé des transports scolaires",
+          "pitch": "Programme national d'investigation (10)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-11",
+          "name": "Accompagner et inclure les nouveaux habitants dans la découverte de leur ville",
+          "pitch": "Programme national d'investigation (11)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-12",
+          "name": "Améliorer la marketplace locale de produits maraîchers",
+          "pitch": "Programme national d'investigation (12)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-13",
+          "name": "Pérenniser la plateforme de mise en relation et dentraide entre habitants",
+          "pitch": "Programme national d'investigation (13)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-14",
+          "name": "Améliorer la visibilité du CIAS auprès des collectivités locales",
+          "pitch": "Programme national d'investigation (14)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-15",
+          "name": "Organisation interne des techniciens du CIAS",
+          "pitch": "Programme national d'investigation (15)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-16",
+          "name": "Redéfinir le schéma d’accueil du public sur le territoire",
+          "pitch": "Programme national d'investigation (16)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-17",
+          "name": "Créer un portail citoyen numérique",
+          "pitch": "Programme national d'investigation (17)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-18",
+          "name": "Mettre en oeuvre un espace collaboratif autour de l’enfant",
+          "pitch": "Programme national d'investigation (18)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-19",
+          "name": "Préfigurer un outil de démocratie implicative",
+          "pitch": "Programme national d'investigation (19)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-20",
+          "name": "Suivre limpact des engagements usagers du territoire seine Saint Denis",
+          "pitch": "Programme national d'investigation (20)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-22",
+          "name": "Mettre en place un cahier de transmissions numérique entre crèches et parents",
+          "pitch": "Programme national d'investigation (22)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-23",
+          "name": "Améliorer la communication entre le centre de loisirs et les parents pendant les période de vacances",
+          "pitch": "Programme national d'investigation (23)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-24",
+          "name": "Réduire le recours de la voiture individuelle sur le territoire",
+          "pitch": "Programme national d'investigation (24)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-25",
+          "name": "Mission Maison de services au public",
+          "pitch": "Programme national d'investigation (25)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-26",
+          "name": "Gérer les tournées de ramassage des déchets / tri",
+          "pitch": "Programme national d'investigation (26)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-27",
+          "name": "Suivre et contrôler lattribution des subventions",
+          "pitch": "Programme national d'investigation (27)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-28",
+          "name": "Améliorer les échanges entre administrés et le CCAS",
+          "pitch": "Programme national d'investigation (28)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-29",
+          "name": "Préfigurer le Premier Accueil Social Inconditionnel de Proximité",
+          "pitch": "Programme national d'investigation (29)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-3",
+          "name": "Créer une GMAO adaptée à lusage des services techniques dune ville",
+          "pitch": "Programme national d'investigation (3)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-30",
+          "name": "Mettre en oeuvre une plateforme solidaire de distribution de paniers alimentaires",
+          "pitch": "Programme national d'investigation (30)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-31",
+          "name": "Bâtir une nouvelle offre culturelle en lien avec lévolution des locaux du cinéma associatif local",
+          "pitch": "Programme national d'investigation (31)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-32",
+          "name": "Suivre le parcours usager au sein des tiers-lieux numériques",
+          "pitch": "Programme national d'investigation (32)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-33",
+          "name": "Amélioration services CC Brenne",
+          "pitch": "Programme national d'investigation (33)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-34",
+          "name": "Redynamiser les commerces locaux par la carte de fidélité stationnement",
+          "pitch": "Programme national d'investigation (34)",
+          "phase": "investigation",
+          "phaseStart": "2120-06-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-35",
+          "name": "Faciliter les échanges entre associations locales",
+          "pitch": "Programme national d'investigation (35)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-36",
+          "name": "Gérer les équipements municipaux (culturels, sportifs, associatifs)",
+          "pitch": "Programme national d'investigation (36)",
+          "link": "https:&#x2F;&#x2F;kwenduparis.wixsite.com&#x2F;equipements-fronton-",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-37",
+          "name": "Renforcer et assurer l’égalité des citoyens dans l’accès aux informations en ligne et aux démarches administratives",
+          "pitch": "Programme national d'investigation (37)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-38",
+          "name": "Installer une méthode innovante dévaluation pour mesurer limpact positif du projet de territoire",
+          "pitch": "Programme national d'investigation (38)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-4",
+          "name": "Créer un outil pour permettre/faciliter la démocratie participative",
+          "pitch": "Programme national d'investigation (4)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-40",
+          "name": "Lutter contre l'illectronisme des personnes agées",
+          "pitch": "Programme national d'investigation (40)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-42",
+          "name": "Améliorer la collaboration numérique entre agents et élus, notamment dans la préparation des conseils municipaux",
+          "pitch": "Programme national d'investigation (42)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-43",
+          "name": "Améliorer la communication et la coordination des EPLE du territoire",
+          "pitch": "Programme national d'investigation (43)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-44",
+          "name": "Préfigurer une plateforme de livraison restaurateur-entreprises du territoire",
+          "pitch": "Programme national d'investigation (44)",
+          "link": "https:&#x2F;&#x2F;servicerepasmidi.wixsite.com&#x2F;my-site-1",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-45",
+          "name": "Instaurer de nouvelles méthodes de travail agiles au sein de l'administration",
+          "pitch": "Programme national d'investigation (45)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-46",
+          "name": "Aider les éco-gardes des parcs départementaux dans la prévention, outils pédagogiques et multimédia pour le respect de l'environnement",
+          "pitch": "Programme national d'investigation (46)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-47",
+          "name": "Accompagner la revitalisation commerciale du cœur de ville des communes du territoire",
+          "pitch": "Programme national d'investigation (47)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-48",
+          "name": "Acculturer l'administration et les élus à de nouvelles méthodes de travail",
+          "pitch": "Programme national d'investigation (48)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-49",
+          "name": "Expliciter le montant des coûts induits par la gestion des déchets",
+          "pitch": "Programme national d'investigation (49)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-5",
+          "name": "Gestion et signalement des déchets/dépôts sauvages à léchelle de la commune",
+          "pitch": "Programme national d'investigation (5)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-50",
+          "name": "Lutter contre le non-recours au tissu associatif local",
+          "pitch": "Programme national d'investigation (50)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-6",
+          "name": "Adaptation du commerce local aux enjeux numériques",
+          "pitch": "Programme national d'investigation (6)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-7",
+          "name": "Développer le concept de télémédecine auprès du public rural",
+          "pitch": "Programme national d'investigation (7)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-8",
+          "name": "Diffuser la culture en territoire rural, en parallèle de limplantation des Micro-folies et projets de cinéma local",
+          "pitch": "Programme national d'investigation (8)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anct-pni-9",
+          "name": "Réduction des encombrants en habitat social collectif à haute densité",
+          "pitch": "Programme national d'investigation (9)",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "anti-gaspi-cantine",
+          "name": "Anti-Gaspi-Cantine",
+          "pitch": "Réduire le gaspillage alimentaire dans les cantines scolaires",
+          "phase": "alumni",
+          "phaseStart": "2021-08-23",
+          "value": 2
+        },
+        {
+          "id": "aplus",
+          "name": "Administration+",
+          "pitch": "Résoudre les blocages administratifs inextricables",
+          "repository": "https://github.com/betagouv/aplus",
+          "link": "https://aplus.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2019-07-01",
+          "value": 15
+        },
+        {
+          "id": "auto-partage",
+          "name": "Auto Partage",
+          "pitch": "Expérimenter la mise en place d'un service d'auto-partage citoyen",
+          "phase": "alumni",
+          "phaseStart": "2020-12-01",
+          "value": 1
+        },
+        {
+          "id": "bases-tiers",
+          "name": "Bases Tiers - Alertissimo",
+          "pitch": "Simplifier la gestion des aides Région par les professionnels",
+          "phase": "alumni",
+          "phaseStart": "2020-07-08",
+          "value": 1
+        },
+        {
+          "id": "boursoloco",
+          "name": "Boursoloco",
+          "pitch": "Recenser et cartographier les acteurs économiques du territoire",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 1
+        },
+        {
+          "id": "cartographie.nationale",
+          "name": "Cartographie nationale",
+          "pitch": "Orienter les publics vers les structures répondant à leur besoin",
+          "repository": "https://github.com/anct-cartographie-nationale",
+          "link": "https://cartographie.societenumerique.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-11-01",
+          "value": 6
+        },
+        {
+          "id": "centre-departemental-enfance",
+          "name": "Trajectoire Enfance",
+          "pitch": "Améliorer la prise en charge des enfants placés",
+          "phase": "alumni",
+          "phaseStart": "2019-07-15",
+          "value": 6
+        },
+        {
+          "id": "commun.orientation",
+          "name": "Commun Orientation",
+          "pitch": "Aider les usagers à résoudre leurs problèmes",
+          "phase": "construction",
+          "phaseStart": "2021-03-01",
+          "value": 4
+        },
+        {
+          "id": "comobi",
+          "name": "CoMobi",
+          "pitch": "Améliorer le déplacement des personnes isolées sur les territoires peu denses grâce au covoiturage solidaire",
+          "repository": "https://github.com/betagouv/neutre.comobi.fr",
+          "link": "http://comobi.fr",
+          "phase": "alumni",
+          "phaseStart": "2022-06-01",
+          "value": 6
+        },
+        {
+          "id": "connect.attitude",
+          "name": "Connect@attitude",
+          "pitch": "Lutter contre l'exclusion numérique ",
+          "phase": "alumni",
+          "phaseStart": "2020-02-01",
+          "value": 1
+        },
+        {
+          "id": "conseiller-numerique",
+          "name": "Conseiller Numérique",
+          "pitch": "Former et déployer des conseillers numériques",
+          "repository": "https://github.com/anct-cnum",
+          "link": "https://www.conseiller-numerique.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 24
+        },
+        {
+          "id": "conseilregionaljeunesbretagne",
+          "name": "CRJ Bretagne",
+          "pitch": "Valoriser la participation démocratique des jeunes dans les établissements scolaires via le Conseil Régional des Jeunes",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 1
+        },
+        {
+          "id": "couts-simplifies",
+          "name": "Coûts simplifiés",
+          "pitch": "Simplifier la gestion des aides européennes par les entreprises",
+          "phase": "alumni",
+          "phaseStart": "2020-07-08",
+          "value": 1
+        },
+        {
+          "id": "deveco",
+          "name": "Deveco",
+          "pitch": "Faciliter l'accès et la gestion des données entreprises pour les collectivités",
+          "phase": "construction",
+          "phaseStart": "2022-01-31",
+          "value": 5
+        },
+        {
+          "id": "données-et-territoires",
+          "name": "Données et territoires",
+          "pitch": "Outiller et accompagner les agents publics dans leurs usages de la donnée",
+          "repository": "https://datahub.incubateur.tech/infrastructure/",
+          "link": "https://donnees.incubateur.anct.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2022-01-01",
+          "value": 13
+        },
+        {
+          "id": "dotations-locales",
+          "name": "Dotations locales",
+          "pitch": "Évaluer le montant des dotations locales de son territoire",
+          "repository": "https://git.leximpact.dev/openfisca/openfisca-france-dotations-locales",
+          "link": "https://dotations.incubateur.anct.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2022-01-01",
+          "value": 5
+        },
+        {
+          "id": "entreprises-bzh",
+          "name": "Entreprises.bzh",
+          "pitch": "Assurer le suivi des demandes des entreprises entre les différents partenaires économiques régionaux",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 3
+        },
+        {
+          "id": "gladpourtous",
+          "name": "Glad pour tous",
+          "pitch": "Comment contribuer à la connaissance et au transfert des savoirs sur le patrimoine breton",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 1
+        },
+        {
+          "id": "idquart",
+          "name": "IDQuart",
+          "pitch": "Favoriser l'émergence d'une plateforme de concertation innovante entre citoyens et collectivités",
+          "phase": "investigation",
+          "phaseStart": "2019-02-04",
+          "value": 3
+        },
+        {
+          "id": "infrastructures.numeriques",
+          "name": "Infrastructures numériques",
+          "pitch": "Outiller les collectivités et les services de l’Etat afin de permettre aux territoires de suivre et d’agir pour la réduction de la fracture numérique.",
+          "phase": "construction",
+          "phaseStart": "2022-02-14",
+          "value": 5
+        },
+        {
+          "id": "intraprenord",
+          "name": "Intraprenord",
+          "pitch": "Trouver le bon interlocuteur au sein du département",
+          "phase": "construction",
+          "phaseStart": "2021-03-01",
+          "value": 3
+        },
+        {
+          "id": "kamehameha",
+          "name": "Kamehameha",
+          "pitch": "Lutter contre le harcèlement des jeunes",
+          "phase": "alumni",
+          "phaseStart": "2020-02-01",
+          "value": 1
+        },
+        {
+          "id": "korrigo-lyceens",
+          "name": "Korrigo Lycéens",
+          "pitch": "Mutualiser les services régionaux à destination des lycéens",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 3
+        },
+        {
+          "id": "la-belette",
+          "name": "La Belette",
+          "pitch": "Savoir qui fait quoi à la Région",
+          "phase": "construction",
+          "phaseStart": "2021-03-01",
+          "value": 1
+        },
+        {
+          "id": "lapins",
+          "name": "RDV Solidarités",
+          "pitch": "Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité",
+          "repository": "https://github.com/betagouv/rdv-solidarites.fr",
+          "link": "https://www.rdv-solidarites.fr",
+          "phase": "acceleration",
+          "phaseStart": "2019-04-01",
+          "value": 19
+        },
+        {
+          "id": "le.c.h.oeur.des.sentes",
+          "name": "Le c(h)œur des Sentes",
+          "pitch": "Aider les personnes en situation de désintégration sociale dans les quartiers",
+          "phase": "alumni",
+          "phaseStart": "2020-02-01",
+          "value": 1
+        },
+        {
+          "id": "locavors",
+          "name": "Les Locavors",
+          "pitch": "Permettre aux enfants de consommer plus de produits locaux à la cantine",
+          "phase": "investigation",
+          "phaseStart": "2020-01-14",
+          "value": 1
+        },
+        {
+          "id": "ma-region",
+          "name": "Ma Région",
+          "pitch": "Augmenter la connaissance et le taux de recours aux aides régionales",
+          "phase": "alumni",
+          "phaseStart": "2020-07-08",
+          "value": 1
+        },
+        {
+          "id": "mediature",
+          "name": "Médiature",
+          "pitch": "Améliorer le suivi des demandes adressées par les citoyens aux médiateurs des collectivités territoriales.",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 3
+        },
+        {
+          "id": "meli.melo",
+          "name": "Méli Melo",
+          "pitch": "Favoriser l'accès des jeunes à la culture, aux sports et aux loisirs ",
+          "phase": "investigation",
+          "phaseStart": "2019-03-01",
+          "value": 1
+        },
+        {
+          "id": "mes-aides.bretagne.bzh",
+          "name": "mes-aides.bretagne.bzh",
+          "pitch": "Faciliter l'accès et l’octroi des aides publiques par les collectivités bretonnes",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 2
+        },
+        {
+          "id": "monstage",
+          "name": "Mon stage de 3e",
+          "pitch": "Permettre aux élèves de 3e d'accéder à des stages pertinents pour combattre les déterminismes sociaux",
+          "repository": "https://github.com/betagouv/monstage",
+          "link": "https://www.monstagedetroisieme.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 16
+        },
+        {
+          "id": "onstage",
+          "name": "OnStage",
+          "pitch": "Renforcer les liens entre jeunes citoyens et entreprises du departement",
+          "phase": "alumni",
+          "phaseStart": "2020-06-30",
+          "value": 1
+        },
+        {
+          "id": "openfisca",
+          "name": "OpenFisca",
+          "pitch": "Rendre la loi exécutable",
+          "repository": "https://github.com/openfisca/openfisca-france",
+          "link": "https://openfisca.org",
+          "phase": "transfer",
+          "phaseStart": "2020-12-01",
+          "value": 5
+        },
+        {
+          "id": "pau-partage",
+          "name": "Pau Partage",
+          "pitch": "Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles",
+          "phase": "investigation",
+          "phaseStart": "2019-02-04",
+          "value": 5
+        },
+        {
+          "id": "pcrs",
+          "name": "PCRS",
+          "pitch": "Accompagner les collectivités pour mettre en place un Plan Corps de Rue Simplifié",
+          "repository": "https://github.com/OpenPCRS",
+          "link": "https://pcrs.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2022-09-30",
+          "value": 7
+        },
+        {
+          "id": "plateforme-direct-autonomie",
+          "name": "Plateforme numérique direct autonomie",
+          "pitch": "Réduire le délai moyen d'attribution de l'allocation personnalisée d'autonomie",
+          "phase": "alumni",
+          "phaseStart": "2019-07-15",
+          "value": 5
+        },
+        {
+          "id": "plateforme-rsa",
+          "name": "Plateforme numérique du R.S.A",
+          "pitch": "Réduire le délai moyen pour initier l’accompagnement des bénéficiaires du R.S.A",
+          "phase": "alumni",
+          "phaseStart": "2019-07-15",
+          "value": 3
+        },
+        {
+          "id": "prev-accueil",
+          "name": "Prev' Accueil",
+          "pitch": "Permettre aux familles en situation de vulnérabilité et/ou de détresse d’accéder à un dispositif d’accueil d’urgence d’enfant",
+          "phase": "alumni",
+          "phaseStart": "2020-07-08",
+          "value": 3
+        },
+        {
+          "id": "protege-toit",
+          "name": "Protège-Toit 🏡 (violences conjugales)",
+          "pitch": "Améliorer la prise en charge d'urgence pour les victimes de violences conjugales",
+          "phase": "alumni",
+          "phaseStart": "2020-06-30",
+          "value": 4
+        },
+        {
+          "id": "reformes-locales",
+          "name": "Réformes locales",
+          "pitch": "Investiguer les besoins des territoires en terme de compréhension de l'impact de réformes existantes ou envisagées",
+          "phase": "investigation",
+          "phaseStart": "2022-08-15",
+          "value": 1
+        },
+        {
+          "id": "rest-0",
+          "name": "Rest'0",
+          "pitch": "Réduire le gaspillage alimentaire dans les cantines scolaires",
+          "phase": "alumni",
+          "phaseStart": "2020-06-30",
+          "value": 1
+        },
+        {
+          "id": "sanitaires-collegiens",
+          "name": "HY-VIGIE COLLÈGE",
+          "pitch": "Vigilance à l’hygiène dans les collèges",
+          "phase": "alumni",
+          "phaseStart": "2020-07-13",
+          "value": 1
+        },
+        {
+          "id": "shareloc",
+          "name": "Shareloc",
+          "pitch": "Exploiter les espaces vacants en lycée",
+          "phase": "alumni",
+          "phaseStart": "2020-07-08",
+          "value": 1
+        },
+        {
+          "id": "simone-and-co",
+          "name": "Simone & Co",
+          "pitch": "Aider et accompagner les femmes en situation de précarité à retrouver dignité et féminité",
+          "phase": "alumni",
+          "phaseStart": "2020-01-20",
+          "value": 2
+        },
+        {
+          "id": "simpliformation",
+          "name": "Simpliformation",
+          "pitch": "Faciliter le parcours administratif de demande de devis de formation",
+          "phase": "investigation",
+          "phaseStart": "2019-10-21",
+          "value": 1
+        },
+        {
+          "id": "sur-la-route",
+          "name": "Sur la route !",
+          "pitch": "Éviter les travaux sauvages sur les routes départementales",
+          "phase": "alumni",
+          "phaseStart": "2020-07-13",
+          "value": 3
+        },
+        {
+          "id": "tout-est-permis",
+          "name": "Tout est permis",
+          "pitch": "Favoriser l'emploi des jeunes hors agglomération en les aidants à obtenir le permis de conduire",
+          "phase": "construction",
+          "phaseStart": "2020-10-01",
+          "value": 3
+        },
+        {
+          "id": "toute-une-histoire",
+          "name": "Toute une histoire",
+          "pitch": "Permettre aux enfants placés au service l’Aide Sociale à l’Enfance d'accéder facilement à leur histoire de vie",
+          "phase": "alumni",
+          "phaseStart": "2020-07-13",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Le laboratoire d'innovation de l'ANSSI",
+      "children": [
+        {
+          "id": "MonAideCyber",
+          "name": "MonAideCyber",
+          "pitch": "Aider les entités publiques et privées à passer de la sensibilisation à l'action",
+          "phase": "construction",
+          "phaseStart": "2022-09-01",
+          "value": 1
+        },
+        {
+          "id": "NIS2",
+          "name": "NIS2",
+          "pitch": "Aider les entreprises et administrations à renforcer leur niveau de sécurité numérique dans le contexte de l’entrée en vigueur de la directive NIS2.",
+          "phase": "investigation",
+          "phaseStart": "2022-10-15",
+          "value": 1
+        },
+        {
+          "id": "Plateforme-CSIRT",
+          "name": "Plateforme CSIRT",
+          "pitch": "Soutenir le développement de l'écosystème français des équipes de réponse aux cyber attaques",
+          "phase": "alumni",
+          "phaseStart": "2021-01-31",
+          "value": 1
+        },
+        {
+          "id": "homologation",
+          "name": "Mon Service Sécurisé",
+          "pitch": "Faciliter la sécurisation et l'homologation des services numériques",
+          "repository": "https://github.com/betagouv/mon-service-securise",
+          "link": "https://www.monservicesecurise.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-09-01",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "L'Incubateur de la Justice",
+      "children": [
+        {
+          "id": "Permis2visites",
+          "name": "Permis2visites",
+          "pitch": "Améliorer l'efficience du processus de contrôle des permis de visites dans les établissements pénitentiers",
+          "phase": "investigation",
+          "phaseStart": "2022-09-04",
+          "value": 1
+        },
+        {
+          "id": "T2BJustice",
+          "name": "T2BJustice",
+          "pitch": "Améliorer l'efficacité du partage d'informations tout au long de la chaîne pénale",
+          "phase": "investigation",
+          "phaseStart": "2022-06-29",
+          "value": 1
+        },
+        {
+          "id": "a-just",
+          "name": "A-JUST",
+          "pitch": "Aider les juridictions dans l'affectation de leurs ressources humaines pour réduire les délais de justice.",
+          "repository": "https://github.com/betagouv/a-just",
+          "phase": "acceleration",
+          "phaseStart": "2022-11-30",
+          "value": 9
+        },
+        {
+          "id": "acces.majeur.protege",
+          "name": "Accès Majeur Protégé",
+          "pitch": "Faciliter la procédure de mise sous tutelle, curatelle et d'habilitation familiale pour les familles et les mandataires.",
+          "phase": "investigation",
+          "phaseStart": "2022-06-29",
+          "value": 1
+        },
+        {
+          "id": "detention.resa.visio.famille",
+          "name": "Détention Résa Visio Famille ",
+          "pitch": "Faciliter la réservation d'un créneau visio en détention",
+          "phase": "investigation",
+          "phaseStart": "2022-07-01",
+          "value": 2
+        },
+        {
+          "id": "frise.cpip",
+          "name": "Frise CPIP",
+          "pitch": "Synthétiser le parcours judiciaire d'une personne suivi par le SPIP (Service Pénitenciaire d'Insertion et Probation)",
+          "phase": "investigation",
+          "phaseStart": "2022-07-15",
+          "value": 2
+        },
+        {
+          "id": "infoparquet",
+          "name": "infoParquet",
+          "pitch": "Simplifier la transmission et le suivi des procédures entre Administrations (hors Police et Gendarmerie) et Juridictions",
+          "phase": "construction",
+          "phaseStart": "2021-07-09",
+          "value": 8
+        },
+        {
+          "id": "justif",
+          "name": "Mon Suivi Justice",
+          "pitch": "Diminuer les rendez-vous non-honorés des personnes placées sous main de justice",
+          "repository": "https://github.com/betagouv/mon-suivi-justice",
+          "phase": "acceleration",
+          "phaseStart": "2022-04-01",
+          "value": 19
+        },
+        {
+          "id": "rdv.mjd",
+          "name": "RDV MJD",
+          "pitch": "Faciliter la prise de RDV dans les Maisons de Justice et du Droit",
+          "phase": "investigation",
+          "phaseStart": "2022-07-06",
+          "value": 4
+        },
+        {
+          "id": "romin",
+          "name": "ROMIN",
+          "pitch": "Faciliter l'accès et l'utilisation des outils d'intervention en Service Pénitentiaire d'Insertion et de Probation (SPIP)",
+          "phase": "investigation",
+          "phaseStart": "2022-06-29",
+          "value": 3
+        },
+        {
+          "id": "tracabilite.courrier",
+          "name": "Traçabilité courrier",
+          "pitch": "Tracer le courrier au tribunal pour permettre aux justiciables d'avoir un accusé reception de leur courrier",
+          "phase": "investigation",
+          "phaseStart": "2022-06-29",
+          "value": 1
+        },
+        {
+          "id": "uvf-numerique",
+          "name": "Les UVF à l'heure du numérique",
+          "pitch": "Moderniser l'instruction et l'accès à l'Unité de Vie Familiale",
+          "phase": "investigation",
+          "phaseStart": "2022-06-29",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "La Fabrique Numérique de l'Ecologie (MTE-MCT)",
+      "children": [
+        {
+          "id": "a-dock",
+          "name": "A Dock",
+          "pitch": "Simplifier l'accès aux données et démarches administratives du transport routier de marchandises",
+          "repository": "https://github.com/MTES-MCT/adock-api",
+          "link": "https://adock.beta.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-01-01",
+          "value": 3
+        },
+        {
+          "id": "acceslibre",
+          "name": "Acceslibre",
+          "pitch": "Collecter puis diffuser les données d'accessibilité des établissements publics",
+          "repository": "https://github.com/MTES-MCT/acceslibre",
+          "link": "https://acceslibre.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2022-09-01",
+          "value": 13
+        },
+        {
+          "id": "accesscite",
+          "name": "Access'cité",
+          "pitch": "Améliorer le nombre d'ERP accessible ",
+          "phase": "investigation",
+          "phaseStart": "2022-04-01",
+          "value": 2
+        },
+        {
+          "id": "aeris",
+          "name": "Aeris",
+          "pitch": "Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels",
+          "repository": "https://github.com/mtes-mct/aeris",
+          "phase": "construction",
+          "phaseStart": "2018-01-01",
+          "value": 3
+        },
+        {
+          "id": "aides-territoires",
+          "name": "Aides-territoires",
+          "pitch": "Accédez aux meilleures aides pour financer et accompagner vos projets locaux",
+          "repository": "https://github.com/MTES-MCT/aides-territoires",
+          "link": "https://aides-territoires.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2018-09-10",
+          "value": 20
+        },
+        {
+          "id": "apilos",
+          "name": "APiLos",
+          "pitch": "APiLos facilite l'accès aux logements sociaux par la simplification des conventions. APiLos est le module conventionnement du Système d'information des aides à la pierre (Siap), développé par les équipes du ministère en charge du logement.",
+          "repository": "https://github.com/MTES-MCT/apilos",
+          "link": "https://apilos.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2021-06-30",
+          "value": 12
+        },
+        {
+          "id": "assec",
+          "name": "ASSEC",
+          "pitch": "Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse",
+          "repository": "https://github.com/MTES-MCT/assec",
+          "phase": "alumni",
+          "phaseStart": "2018-06-18",
+          "value": 4
+        },
+        {
+          "id": "atlas-des-paysages",
+          "name": "Atlas des paysages",
+          "pitch": "Systématiser la prise en compte des paysages dans les projets d'aménagement du territoire",
+          "phase": "alumni",
+          "phaseStart": "2021-04-30",
+          "value": 1
+        },
+        {
+          "id": "bati-amiante",
+          "name": "Bati-Amiante",
+          "pitch": "Lutter contre le risque amiante en partageant les diagnostics",
+          "phase": "alumni",
+          "phaseStart": "2020-07-01",
+          "value": 2
+        },
+        {
+          "id": "bureaux.vacants",
+          "name": "Bureaux vacants",
+          "pitch": "Transformer les bureaux vacants en logement",
+          "phase": "alumni",
+          "phaseStart": "2021-09-10",
+          "value": 6
+        },
+        {
+          "id": "cadransolaire",
+          "name": "CadranSolaire",
+          "pitch": "Accélérer le développement du photovoltaïque",
+          "phase": "investigation",
+          "phaseStart": "2022-03-28",
+          "value": 6
+        },
+        {
+          "id": "camino",
+          "name": "Camino",
+          "pitch": "Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.",
+          "repository": "https://github.com/MTES-MCT/camino",
+          "link": "https://camino.beta.gouv.fr",
+          "phase": "transfer",
+          "phaseStart": "2021-09-01",
+          "value": 16
+        },
+        {
+          "id": "carbure",
+          "name": "Carbure",
+          "pitch": "Gestion centralisée des flux de biocarburants",
+          "repository": "https://github.com/MTES-MCT/carbure",
+          "link": "https://carbure.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2019-11-30",
+          "value": 8
+        },
+        {
+          "id": "cas.par.4",
+          "name": "Cas par 4 ",
+          "pitch": "Déposer simplement et rapidement la demande d'évaluation au cas par cas de votre projet",
+          "phase": "construction",
+          "phaseStart": "2022-07-03",
+          "value": 3
+        },
+        {
+          "id": "chauffage-urbain",
+          "name": "France Chaleur Urbaine",
+          "pitch": "Accélérer le raccordement des bâtiments aux réseaux de chaleur",
+          "repository": "https://github.com/betagouv/france-chaleur-urbaine",
+          "link": "https://france-chaleur-urbaine.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-07-01",
+          "value": 11
+        },
+        {
+          "id": "cobot",
+          "name": "Cobot",
+          "pitch": "Mettre les petites contributions numériques au service de l'intérêt général",
+          "phase": "alumni",
+          "phaseStart": "2019-09-01",
+          "value": 1
+        },
+        {
+          "id": "conseau",
+          "name": "Cons'eau",
+          "pitch": "Améliorer la gestion des sécheresses par la maîtrise des prélèvements",
+          "phase": "alumni",
+          "phaseStart": "2020-06-30",
+          "value": 1
+        },
+        {
+          "id": "dialogue",
+          "name": "DiaLog",
+          "pitch": "Faciliter l'intégration de la réglementation poids lourds dans les GPS routiers",
+          "phase": "investigation",
+          "phaseStart": "2022-03-21",
+          "value": 6
+        },
+        {
+          "id": "docurba",
+          "name": "Docurba",
+          "pitch": "Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État",
+          "repository": "https://github.com/MTES-MCT/Docurba",
+          "phase": "construction",
+          "phaseStart": "2021-04-12",
+          "value": 12
+        },
+        {
+          "id": "ecobalyse",
+          "name": "Ecobalyse",
+          "pitch": "Accélerer la mise en place de l'affichage environnemental",
+          "repository": "https://github.com/MTES-MCT/ecobalyse",
+          "link": "https://ecobalyse.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-07-16",
+          "value": 11
+        },
+        {
+          "id": "efti",
+          "name": "EFTI",
+          "pitch": "Faciliter le contrôle des documents liés aux transports de marchandise",
+          "phase": "alumni",
+          "phaseStart": "2021-10-02",
+          "value": 2
+        },
+        {
+          "id": "emile",
+          "name": "Programme EMILE (Engagés pour la Mobilité et l’Insertion par le Logement et l’Emploi)",
+          "pitch": "Proposer un nouveau projet de vie à des personnes vulnérables via un changement de logement et de parcours professionnel",
+          "link": "https://www.programme-emile.org/",
+          "phase": "construction",
+          "phaseStart": "2022-08-01",
+          "value": 4
+        },
+        {
+          "id": "envergo",
+          "name": "EnvErgo",
+          "pitch": "Améliorer la prise en compte de l'environnement dans les projets d'aménagement",
+          "repository": "https://github.com/MTES-MCT/envergo",
+          "link": "https://envergo.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-07-13",
+          "value": 8
+        },
+        {
+          "id": "filharmonic",
+          "name": "Fil'harmonic",
+          "pitch": "Faciliter le travail administratif autour des contrôles ICPE",
+          "repository": "https://github.com/MTES-MCT/filharmonic",
+          "phase": "alumni",
+          "phaseStart": "2019-12-01",
+          "value": 5
+        },
+        {
+          "id": "fluctuat",
+          "name": "Fluctu@t",
+          "pitch": "Aider au développement du transport fluvial en France",
+          "phase": "alumni",
+          "phaseStart": "2019-09-01",
+          "value": 4
+        },
+        {
+          "id": "histologe",
+          "name": "Histologe",
+          "pitch": "Faciliter le signalement et accélérer la prise en charge du mal logement",
+          "repository": "https://github.com/MTES-MCT/histologe",
+          "link": "https://histologe.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2020-07-01",
+          "value": 14
+        },
+        {
+          "id": "hydrogene",
+          "name": "Hydrogène",
+          "pitch": "Accélérer la création de la filière française de production d'hydrogène décarboné",
+          "phase": "alumni",
+          "phaseStart": "2021-04-16",
+          "value": 1
+        },
+        {
+          "id": "innovation-urbaine",
+          "name": "Innovation Urbaine",
+          "pitch": "Favoriser la mise en place de solutions d'innovation urbaine",
+          "phase": "alumni",
+          "phaseStart": "2021-02-01",
+          "value": 4
+        },
+        {
+          "id": "jaden.gwadloup",
+          "name": "Jaden Gwadloup",
+          "pitch": "Favoriser le développement de jardins partagés en Guadeloupe",
+          "phase": "construction",
+          "phaseStart": "2021-11-08",
+          "value": 2
+        },
+        {
+          "id": "kelrisks",
+          "name": "Kelrisks",
+          "pitch": "Evaluer et conseiller sur les risques de pollution d’un terrain.",
+          "repository": "https://github.com/MTES-MCT/kelrisks",
+          "link": "https://kelrisks.beta.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2020-07-10",
+          "value": 1
+        },
+        {
+          "id": "le-taxi",
+          "name": "le.taxi",
+          "pitch": "Un taxi, tout de suite !",
+          "repository": "https://github.com/openmaraude/APITaxi",
+          "link": "https://le.taxi",
+          "phase": "acceleration",
+          "phaseStart": "2015-03-15",
+          "value": 11
+        },
+        {
+          "id": "locatio",
+          "name": "DossierFacile",
+          "pitch": "Remettre la confiance au centre de la relation entre propriétaires et locataires",
+          "repository": "https://github.com/mtes-mct/locatio",
+          "link": "https://www.dossierfacile.fr/?utm_source=betagouv&utm_medium=referral&utm_campaign=fiche_betagouv",
+          "phase": "acceleration",
+          "phaseStart": "2018-01-01",
+          "value": 35
+        },
+        {
+          "id": "mesads",
+          "name": "Mes autorisations de stationnement",
+          "pitch": "Faciliter la constitution d'une base des licences de taxis en France",
+          "repository": "https://github.com/mesadsfr/mesads",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 6
+        },
+        {
+          "id": "mission-transition-ecologique",
+          "name": "Mission Transition Ecologique",
+          "pitch": "Faciliter la transition écologique des PME-ETI",
+          "phase": "construction",
+          "phaseStart": "2021-01-01",
+          "value": 5
+        },
+        {
+          "id": "mobilic",
+          "name": "Mobilic",
+          "pitch": "Simplifier le suivi et le respect du temps de travail des travailleurs mobiles",
+          "repository": "https://github.com/MTES-MCT/mobilic",
+          "link": "https://mobilic.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 9
+        },
+        {
+          "id": "monitorfish",
+          "name": "MonitorFish & MonitorEnv",
+          "pitch": "Protéger la ressource halieutique et l’environnement marin en outillant les acteurs du contrôle en mer",
+          "repository": "https://github.com/MTES-MCT/monitorfish",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 11
+        },
+        {
+          "id": "oilhi",
+          "name": "OILHI",
+          "pitch": "Faciliter le traitement des cas d'habitat indigne",
+          "phase": "construction",
+          "phaseStart": "2022-06-26",
+          "value": 6
+        },
+        {
+          "id": "partaj",
+          "name": "PARTAJ",
+          "pitch": "Facilitons l'accès à une expertise juridique de qualité",
+          "repository": "https://github.com/MTES-MCT/partaj",
+          "link": "https://partaj.beta.gouv.fr",
+          "phase": "transfer",
+          "phaseStart": "2021-09-01",
+          "value": 10
+        },
+        {
+          "id": "permis-de-construire-facile",
+          "name": "Permis de construire facile",
+          "pitch": "Déposer et gérer une demande de permis de construire simplement",
+          "phase": "alumni",
+          "phaseStart": "2019-04-30",
+          "value": 2
+        },
+        {
+          "id": "pilotage.plan.velo",
+          "name": "Pilotage Plan Vélo",
+          "pitch": "Accélerer le potentiel vélo de ma ville",
+          "phase": "alumni",
+          "phaseStart": "2022-06-29",
+          "value": 1
+        },
+        {
+          "id": "potentiel",
+          "name": "Potentiel",
+          "pitch": "Faciliter le parcours des producteurs d'énergies renouvelables électriques",
+          "repository": "https://github.com/MTES-MCT/potentiel",
+          "link": "https://potentiel.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-01-01",
+          "value": 10
+        },
+        {
+          "id": "preuve-de-covoiturage",
+          "name": "Registre de preuve de covoiturage",
+          "pitch": "Accompagner le développement du covoiturage au quotidien 🚘",
+          "repository": "https://github.com/betagouv/preuve-covoiturage",
+          "link": "http://covoiturage.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2019-11-28",
+          "value": 15
+        },
+        {
+          "id": "prev-ac-tion",
+          "name": "Prev-AC-TION",
+          "pitch": "Prévenir les risques et les maladies professionnelles dans le secteur maritime",
+          "phase": "investigation",
+          "phaseStart": "2021-06-29",
+          "value": 2
+        },
+        {
+          "id": "qualicharge",
+          "name": "QualiCharge",
+          "pitch": "Améliorer la qualité globale du service de recharge pour véhicules électriques en analysant les données de supervision",
+          "phase": "investigation",
+          "phaseStart": "2022-03-29",
+          "value": 1
+        },
+        {
+          "id": "railup",
+          "name": "Rail'up",
+          "pitch": "Simplifier les demandes de licences d'entreprise ferroviaire",
+          "phase": "investigation",
+          "phaseStart": "2021-04-12",
+          "value": 2
+        },
+        {
+          "id": "rapportnav",
+          "name": "RapportNav",
+          "pitch": "Rédiger simplement les compte-rendus de missions des affaires maritimes",
+          "repository": "https://github.com/MTES-MCT/rapportNav",
+          "phase": "construction",
+          "phaseStart": "2022-08-16",
+          "value": 4
+        },
+        {
+          "id": "reflex",
+          "name": "REflex",
+          "pitch": "Accompagner les acteurs de la construction vers la neutralité carbone",
+          "phase": "alumni",
+          "phaseStart": "2022-11-24",
+          "value": 4
+        },
+        {
+          "id": "resorption-bidonvilles",
+          "name": "Résorption Bidonvilles",
+          "pitch": "Connaître, partager et agir pour résorber les bidonvilles",
+          "repository": "https://github.com/MTES-MCT/resorption-bidonvilles",
+          "link": "http://resorption-bidonvilles.beta.gouv.fr/",
+          "phase": "transfer",
+          "phaseStart": "2021-09-01",
+          "value": 17
+        },
+        {
+          "id": "sparte",
+          "name": "SPARTE",
+          "pitch": "Faciliter la mise en oeuvre du Zéro Artificialisation Nette",
+          "repository": "https://github.com/MTES-MCT/sparte",
+          "link": "https://sparte.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-09-01",
+          "value": 11
+        },
+        {
+          "id": "trackdechets",
+          "name": "Trackdéchets",
+          "pitch": "Gérer la traçabilité des déchets, en toute sécurité",
+          "repository": "https://github.com/MTES-MCT/trackdechets",
+          "link": "https://trackdechets.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2018-11-01",
+          "value": 23
+        },
+        {
+          "id": "transport",
+          "name": "transport. data.gouv.fr",
+          "pitch": "Faciliter l'accès à l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.",
+          "repository": "https://github.com/etalab/transport-site",
+          "link": "https://transport.data.gouv.fr",
+          "phase": "success",
+          "phaseStart": "2021-03-05",
+          "value": 15
+        },
+        {
+          "id": "tuktuk",
+          "name": "TukTuk",
+          "pitch": "Décarboner les trajets courtes distance en ville par des tricycles motorisés",
+          "phase": "investigation",
+          "phaseStart": "2022-03-28",
+          "value": 1
+        },
+        {
+          "id": "zero-logement-vacant",
+          "name": "Zéro logement vacant",
+          "pitch": "Mobiliser les propriétaires de logements vacants",
+          "repository": "https://github.com/MTES-MCT/zero-logement-vacant",
+          "link": "https://zerologementvacant.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-07-01",
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "La Fabrique Numérique du Ministère des armées",
+      "children": [
+        {
+          "id": "airvam",
+          "name": "Air VAM",
+          "pitch": "Gérer simplement les dossiers liés à un vol militaire aérien",
+          "phase": "construction",
+          "phaseStart": "2021-06-01",
+          "value": 4
+        },
+        {
+          "id": "anais",
+          "name": "ANAIS",
+          "pitch": "Maîtriser notre espace maritime",
+          "link": "https://anais.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2019-04-05",
+          "value": 7
+        },
+        {
+          "id": "athena",
+          "name": "Athéna",
+          "pitch": "Consulter plus facilement les procédures liées à la gestion de crise",
+          "phase": "construction",
+          "phaseStart": "2021-10-14",
+          "value": 2
+        },
+        {
+          "id": "cassiopee",
+          "name": "Cassiopée",
+          "pitch": "Optimiser les parcours de formations des officiers souhaitant revenir à la vie civile",
+          "phase": "construction",
+          "phaseStart": "2021-05-23",
+          "value": 4
+        },
+        {
+          "id": "civils-de-la-defense",
+          "name": "Civils de la Défense",
+          "pitch": "Recruter simplement des agents civils sous contrat",
+          "repository": "https://github.com/betagouv/civilsdeladefense",
+          "link": "https://contractuels.civils.defense.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2022-06-01",
+          "value": 10
+        },
+        {
+          "id": "e-chauffeur",
+          "name": "e-Chauffeur",
+          "pitch": "Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense",
+          "repository": "https://gitlab.com/fabnum-minarm/e-chauffeur/",
+          "phase": "acceleration",
+          "phaseStart": "2018-09-01",
+          "value": 8
+        },
+        {
+          "id": "eoliennes",
+          "name": "Éoliennes",
+          "pitch": "Accélérer l’instruction relative au traitement de dossiers obstacles pour l’Armée de l’air",
+          "phase": "investigation",
+          "phaseStart": "2020-04-01",
+          "value": 1
+        },
+        {
+          "id": "les-alpps",
+          "name": "Les Alpps",
+          "pitch": "Sécuriser les sorties en montagne",
+          "phase": "success",
+          "phaseStart": "2021-06-01",
+          "value": 4
+        },
+        {
+          "id": "medopex",
+          "name": "MedOpex",
+          "pitch": "Garantir l'accès à des ressources fiables pour les médecins en opération extérieure",
+          "phase": "investigation",
+          "phaseStart": "2019-04-01",
+          "value": 1
+        },
+        {
+          "id": "megalodon",
+          "name": "Megalodon",
+          "pitch": "Faciliter la rédaction d'un cahier des clauses techniques particulières (CCTP)",
+          "phase": "investigation",
+          "phaseStart": "2020-11-01",
+          "value": 2
+        },
+        {
+          "id": "metiis",
+          "name": "METIIS",
+          "pitch": "Révéler le potentiel de la réserve",
+          "link": "https://metiis.fabnum.fr",
+          "phase": "construction",
+          "phaseStart": "2019-11-30",
+          "value": 7
+        },
+        {
+          "id": "octopus",
+          "name": "Octopus",
+          "pitch": "Optimiser la préparation des missions logistiques de l'armée de l'air",
+          "phase": "construction",
+          "phaseStart": "2021-06-01",
+          "value": 6
+        },
+        {
+          "id": "osirispn",
+          "name": "Osiris PN",
+          "pitch": "Fluidifier et anticiper les flux de formation des élèves pilotes",
+          "phase": "construction",
+          "phaseStart": "2021-06-01",
+          "value": 5
+        },
+        {
+          "id": "puije",
+          "name": "Puije",
+          "pitch": "Exploration de la relation jeunes/armées dans une optique de recrutement",
+          "phase": "investigation",
+          "phaseStart": "2020-05-26",
+          "value": 1
+        },
+        {
+          "id": "sepia",
+          "name": "SEPIA",
+          "pitch": "Accélérer les interventions de la police du ciel",
+          "phase": "transfer",
+          "phaseStart": "2022-09-01",
+          "value": 9
+        },
+        {
+          "id": "smart-remisage",
+          "name": "Smart remisage",
+          "pitch": "Suivre la consommation de batteries pour optimiser leur recharge et maintenance",
+          "phase": "investigation",
+          "phaseStart": "2019-03-01",
+          "value": 1
+        },
+        {
+          "id": "stargate",
+          "name": "STARGATE",
+          "pitch": "Repenser l'accès aux bases de défense",
+          "phase": "construction",
+          "phaseStart": "2019-11-30",
+          "value": 6
+        },
+        {
+          "id": "usine-chatbots",
+          "name": "Usine à chatbots",
+          "pitch": "Automatiser la conception de chatbots",
+          "repository": "https://github.com/fabnumdef/fabrique-chatbot",
+          "link": "https://chatbot.fabnum.fr/",
+          "phase": "transfer",
+          "phaseStart": "2022-06-01",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "L'Incubateur des API",
+      "children": [
+        {
+          "id": "annuaire-entreprises",
+          "name": "L’Annuaire des Entreprises",
+          "pitch": "Retrouver toutes les informations concernant les entreprises françaises",
+          "repository": "https://github.com/etalab/annuaire-entreprises.data.gouv.fr",
+          "link": "https://annuaire-entreprises.data.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-12-01",
+          "value": 6
+        },
+        {
+          "id": "api-entreprise",
+          "name": "API Entreprise",
+          "pitch": "Rendre accessibles aux acteurs publics les informations administratives des entreprises et associations, afin de simplifier leurs démarches.",
+          "repository": "https://github.com/etalab/entreprise.api.gouv.fr",
+          "link": "https://entreprise.api.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2019-09-01",
+          "value": 13
+        },
+        {
+          "id": "api-geo",
+          "name": "API Géo",
+          "pitch": "Interroger les référentiels géographiques plus facilement",
+          "repository": "https://github.com/etalab/geoapi",
+          "link": "https://geo.api.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2015-01-01",
+          "value": 2
+        },
+        {
+          "id": "api-particulier",
+          "name": "API Particulier",
+          "pitch": "Rendre accessibles aux acteurs publics les informations administratives des particuliers, afin de simplifier leurs démarches.",
+          "repository": "https://github.com/betagouv/api-particulier",
+          "link": "https://api.gouv.fr/les-api/api-particulier",
+          "phase": "success",
+          "phaseStart": "2020-01-01",
+          "value": 4
+        },
+        {
+          "id": "api.gouv.fr",
+          "name": "api.gouv.fr",
+          "pitch": "Référencer toutes les APIs du service public",
+          "repository": "https://github.com/betagouv/api.gouv.fr",
+          "link": "https://api.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2016-01-25",
+          "value": 9
+        },
+        {
+          "id": "datapass",
+          "name": "DataPass",
+          "pitch": "Délivrer des « Pass » pour accéder à la « Data » produite par l'État.",
+          "repository": "https://github.com/betagouv/datapass",
+          "link": "https://datapass.api.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2018-11-08",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "La Grande Fabrique de Pôle emploi",
+      "children": [
+        {
+          "id": "anotea",
+          "name": "Anotea",
+          "pitch": "Éclairer les personnes à la recherche d'une formation professionnelle dans leur choix",
+          "repository": "https://github.com/StartupsPoleEmploi/anotea",
+          "link": "https://anotea.pole-emploi.fr",
+          "phase": "success",
+          "phaseStart": "2020-07-01",
+          "value": 3
+        },
+        {
+          "id": "avril",
+          "name": "Avril",
+          "pitch": "Obtenir un diplôme par la VAE grâce à ses compétences",
+          "repository": "https://github.com/StartupsPoleEmploi/avril",
+          "link": "https://avril.pole-emploi.fr",
+          "phase": "success",
+          "phaseStart": "2022-11-30",
+          "value": 3
+        },
+        {
+          "id": "clara",
+          "name": "Clara",
+          "pitch": "Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité",
+          "repository": "https://github.com/StartupsPoleEmploi/clara",
+          "link": "https://clara.pole-emploi.fr/",
+          "phase": "alumni",
+          "phaseStart": "2022-11-30",
+          "value": 7
+        },
+        {
+          "id": "competence.validee",
+          "name": "Compétence Validée",
+          "pitch": "optimiser l’intermédiation entre offre et demande d’emploi en fiabilisant les profils des personnes en demande d'emploi grâce à une validation de compétences",
+          "link": "https://competencevalidee.pole-emploi.fr/",
+          "phase": "transfer",
+          "phaseStart": "2023-06-30",
+          "value": 8
+        },
+        {
+          "id": "encyclopedie-des-metiers",
+          "name": "Encyclopédie des Métiers",
+          "pitch": "Faciliter l'accès à des informations claires et pratiques sur les métiers et les compétences",
+          "link": "https://tous-les-metiers.pole-emploi.fr/ ",
+          "phase": "construction",
+          "phaseStart": "2021-11-01",
+          "value": 18
+        },
+        {
+          "id": "estime",
+          "name": "ESTIME",
+          "pitch": "Soutenir la reprise d'activité des personnes en demande d'emploi en facilitant l'accès à l'information concernant les aides financières",
+          "repository": "https://github.com/StartupsPoleEmploi/estime-frontend",
+          "link": "https://estime.pole-emploi.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2020-09-01",
+          "value": 9
+        },
+        {
+          "id": "la-bonne-boite",
+          "name": "La Bonne Boite",
+          "pitch": "Mettre en visibilité le marché caché de l'emploi grâce à un service qui favorise les candidatures spontanées des demandeurs d'emploi et qui candidate en suggérant des entreprises à fort potentiel d’embauche selon le lieu géographique choisi",
+          "repository": "https://github.com/StartupsPoleEmploi/labonneboite ",
+          "link": "https://labonneboite.pole-emploi.fr/",
+          "phase": "construction",
+          "phaseStart": "2015-05-01",
+          "value": 11
+        },
+        {
+          "id": "la-bonne-formation",
+          "name": "La Bonne Formation",
+          "pitch": "Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles",
+          "repository": "https://git.beta.pole-emploi.fr/open-source/labonneformation",
+          "link": "https://labonneformation.pole-emploi.fr",
+          "phase": "success",
+          "phaseStart": "2022-11-30",
+          "value": 2
+        },
+        {
+          "id": "labonneplace",
+          "name": "La bonne place",
+          "pitch": "Mettre en relation demandeurs d'emploi et entreprise de façon à ce que cela dure",
+          "phase": "alumni",
+          "phaseStart": "2021-03-31",
+          "value": 1
+        },
+        {
+          "id": "maintenant",
+          "name": "Maintenant!",
+          "pitch": "Recruter des gens, pas des CV !",
+          "link": "https://maintenant.pole-emploi.fr",
+          "phase": "construction",
+          "phaseStart": "2016-02-02",
+          "value": 3
+        },
+        {
+          "id": "memo",
+          "name": "Memo",
+          "pitch": "Visualiser ses candidatures Pôle emploi en un clin d'oeil",
+          "repository": "https://github.com/StartupsPoleEmploi/memo",
+          "link": "https://memo.pole-emploi.fr",
+          "phase": "construction",
+          "phaseStart": "2016-01-03",
+          "value": 2
+        },
+        {
+          "id": "mes-evenements-emploi",
+          "name": "Mes événements Emploi",
+          "pitch": "Une solution numérique qui permet aux candidat·es de s’inscrire à des événements adaptés à leurs critères de recherche, dans l’objectif de trouver un emploi ou d’accéder à une formation et se préparer à un événement de recrutement",
+          "link": "https://mesevenementsemploi.pole-emploi.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-11-01",
+          "value": 8
+        },
+        {
+          "id": "mes.aides.a.lembauche",
+          "name": "Mes aides à l'embauche",
+          "pitch": "Faciliter le recrutement en informant l’employeur au bon moment sur l'aide la plus adaptée à la situation de son recrutement",
+          "link": " https://entreprise.pole-emploi.fr/detecteureligibiliteaides/ ",
+          "phase": "acceleration",
+          "phaseStart": "2022-10-03",
+          "value": 1
+        },
+        {
+          "id": "mes.aides",
+          "name": "Mes Aides",
+          "pitch": "Le service Pôle emploi qui permet aux personnes en insertion de trouver en 3 clics les aides humaines, matérielles et financières pour faciliter leur parcours vers l’emploi",
+          "link": "https://mes-aides.pole-emploi.fr/ ",
+          "phase": "acceleration",
+          "phaseStart": "2022-10-03",
+          "value": 8
+        },
+        {
+          "id": "mobiville",
+          "name": "Mobiville",
+          "pitch": "Diminuer le nombre d'emplois non pourvus en facilitant la mobilité géographique des actifs",
+          "repository": "https://github.com/StartupsPoleEmploi/mobiville",
+          "link": "https://mobiville.pole-emploi.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-09-01",
+          "value": 13
+        },
+        {
+          "id": "perspectives",
+          "name": "Perspectives",
+          "pitch": "Mettre en relation candidats et employeurs par la méthode de recrutement par simulation",
+          "repository": "https://github.com/StartupsPoleEmploi/perspectives",
+          "link": "https://perspectives.pole-emploi.fr",
+          "phase": "construction",
+          "phaseStart": "2018-05-02",
+          "value": 10
+        },
+        {
+          "id": "zen",
+          "name": "Zen",
+          "pitch": "Aider les personnes cumulant emploi et chômage à être payé le bon montant d’allocation chômage",
+          "repository": "https://github.com/StartupsPoleEmploi/zen",
+          "link": "https://zen.pole-emploi.fr",
+          "phase": "alumni",
+          "phaseStart": "2021-11-01",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Plateformes de l'Engagement Civique",
+      "children": [
+        {
+          "id": "api-engagement",
+          "name": "API Engagement",
+          "pitch": "Donner plus de visibilité aux offres de bénévolat et de volontariat",
+          "link": "https://api-engagement.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-06-01",
+          "value": 10
+        },
+        {
+          "id": "jeveuxaider",
+          "name": "JeVeuxAider.gouv.fr",
+          "pitch": "Encourager l'engagement bénévole partout en France",
+          "repository": "https://github.com/Codeconut/jeveuxaider",
+          "link": "https://www.jeveuxaider.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2020-10-05",
+          "value": 32
+        },
+        {
+          "id": "snu",
+          "name": "Service National Universel",
+          "pitch": "Développer la conscience citoyenne des jeunes",
+          "repository": "https://github.com/betagouv/service-national-universel",
+          "link": "https://moncompte.snu.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-01-01",
+          "value": 18
+        }
+      ]
+    },
+    {
+      "name": "L'Atelier Numérique du Ministère de la Culture",
+      "children": [
+        {
+          "id": "archivesarcheo",
+          "name": "Versementgétorix",
+          "pitch": "Empêcher la perte des données de l’archéologie (préventive), de plus en plus numérique. Rationnaliser la collecte de ces archives pour faciliter le travail des archéologues sur le terrain, puis des gestionnaires de documentation et des archivistes.",
+          "phase": "construction",
+          "phaseStart": "2022-04-15",
+          "value": 2
+        },
+        {
+          "id": "collectif_objets",
+          "name": "Collectif Objets",
+          "pitch": "Recenser les objets monuments historiques pour mieux les protéger",
+          "repository": "https://github.com/betagouv/collectif-objets",
+          "link": "https://collectif-objets.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-09-28",
+          "value": 11
+        },
+        {
+          "id": "culture_amateurs",
+          "name": "Culture Amateurs",
+          "pitch": "Développer les pratiques culturelles des amateur·ice·s",
+          "phase": "alumni",
+          "phaseStart": "2021-02-01",
+          "value": 1
+        },
+        {
+          "id": "culturecheznous",
+          "name": "Culture chez Nous",
+          "pitch": "Accompagner et autonomiser les acteurs culturels pour la production de contenus numériques adaptés aux usages et aux besoins des citoyens.",
+          "phase": "construction",
+          "phaseStart": "2021-12-31",
+          "value": 1
+        },
+        {
+          "id": "dedale",
+          "name": "Dédale",
+          "pitch": "Accompagner les usagers des services des Bâtiments de France lors de travaux en espace protégé",
+          "phase": "construction",
+          "phaseStart": "2020-04-01",
+          "value": 7
+        },
+        {
+          "id": "ellesfontlaculture",
+          "name": "Elles font la Culture",
+          "pitch": "Réduire les inégalités de genre dans la culture, en commençant par le secteur de la photographie.",
+          "repository": "https://github.com/betagouv/ellesfontlaphoto",
+          "link": "https://www.ellesfontlaculture.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2020-04-01",
+          "value": 10
+        },
+        {
+          "id": "euphrosyne",
+          "name": "Euphrosyne",
+          "pitch": "Ouvrir les données d'AGLAE, accélérateur à particules européen",
+          "repository": "https://github.com/betagouv/euphrosyne/",
+          "link": "https://sagascience.com/newaglae/",
+          "phase": "construction",
+          "phaseStart": "2020-04-01",
+          "value": 11
+        },
+        {
+          "id": "inventaireoeuvres",
+          "name": "Inventaire des œuvres d'art",
+          "pitch": "Optimiser la gestion des dépôts des biens culturels de l’Etat chez les dépositaires en assurant une meilleure traçabilité entre deux récolements. Eviter les pertes et faciliter les redécouvertes.",
+          "phase": "construction",
+          "phaseStart": "2022-04-15",
+          "value": 2
+        },
+        {
+          "id": "locadocs",
+          "name": "Locadocs",
+          "pitch": "Simplifier l’accès aux documents publics",
+          "phase": "alumni",
+          "phaseStart": "2021-12-31",
+          "value": 5
+        },
+        {
+          "id": "mobinat",
+          "name": "Mobinat",
+          "pitch": "Retrouver l'histoire du mobilier national",
+          "phase": "alumni",
+          "phaseStart": "2021-07-31",
+          "value": 2
+        },
+        {
+          "id": "pop",
+          "name": "Plateforme Ouverte du Patrimoine",
+          "pitch": "Valoriser notre patrimoine culturel auprès du plus grand nombre - Seconde investigation en cours",
+          "repository": "https://github.com/betagouv/pop",
+          "link": "https://pop.culture.gouv.fr/",
+          "phase": "investigation",
+          "phaseStart": "2018-04-01",
+          "value": 4
+        },
+        {
+          "id": "rim-culture",
+          "name": "Culture RIM",
+          "pitch": "Améliorer le suivi des réunions interministérielles",
+          "phase": "alumni",
+          "phaseStart": "2021-12-31",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "La Fabrique numérique des Finances publiques",
+      "children": [
+        {
+          "id": "attractivite.des.territoires",
+          "name": "Attractivité des territoires",
+          "pitch": "Accompagner par la data visualisation les petites communes dans le montage, la sécurisation et la valorisation de leurs projets d’investissement.",
+          "phase": "alumni",
+          "phaseStart": "2022-01-11",
+          "value": 5
+        },
+        {
+          "id": "candela",
+          "name": "CanDeLa",
+          "pitch": "Améliorer l’exercice de la mission de conseiller aux décideurs locaux, le relationnel et le partage documentaire avec les collectivités.",
+          "phase": "alumni",
+          "phaseStart": "2021-07-09",
+          "value": 2
+        },
+        {
+          "id": "faritas",
+          "name": "FARITAS",
+          "pitch": "FAciliter le Recouvrement de l’Impôt et de la TAxe de Séjour.",
+          "phase": "investigation",
+          "phaseStart": "2021-07-09",
+          "value": 3
+        },
+        {
+          "id": "solution.audiovisuelle.easi",
+          "name": "Solution EASI",
+          "pitch": "Améliorer par l’audiovisuel l'expérience relationnelle entre les usagers particuliers et la DGFiP et réduire les taux d’erreurs sans avoir besoin de contact. ",
+          "phase": "alumni",
+          "phaseStart": "2021-07-09",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "La Fabrique des géocommuns",
+      "children": [
+        {
+          "id": "ban",
+          "name": "Base Adresse Nationale",
+          "pitch": "Référencer l'intégralité des adresses du territoire français",
+          "repository": "https://github.com/BaseAdresseNationale",
+          "link": "https://adresse.data.gouv.fr",
+          "phase": "transfer",
+          "phaseStart": "2021-05-05",
+          "value": 16
+        },
+        {
+          "id": "bat-id",
+          "name": "BatID -  Le Référentiel National des Bâtiments",
+          "pitch": "Référencer l’intégralité des bâtiments du territoire français au sein d’un géocommun",
+          "phase": "construction",
+          "phaseStart": "2023-01-01",
+          "value": 3
+        },
+        {
+          "id": "mission.debroussaillement",
+          "name": "Mission Débroussaillement",
+          "pitch": "Mieux faire connaître les obligations légales de débroussaillement et aider à leur mise en œuvre",
+          "phase": "investigation",
+          "phaseStart": "2022-09-20",
+          "value": 3
+        },
+        {
+          "id": "reglementations.en.foret",
+          "name": "Règlementations en forêt",
+          "pitch": "Mieux faire connaître les obligations légales des propriétaires de forêts et aider à leur mise en œuvre afin de garantir les enjeux de préservation des écosystèmes et de protection de la ressource",
+          "phase": "investigation",
+          "phaseStart": "2022-09-11",
+          "value": 3
+        },
+        {
+          "id": "vues-immersives-libres",
+          "name": "Panoramax - Base vues immersives libres",
+          "pitch": "Participer à la mise en place d'une alternative libre à Google Street View et Mapillary (groupe Meta)",
+          "phase": "construction",
+          "phaseStart": "2022-10-17",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "L'Atelier Numérique du Ministère de l'Europe et des Affaires Etrangères",
+      "children": [
+        {
+          "id": "bourses.scolaires",
+          "name": "Ma démarche BOSCO (Bourses Scolaires)",
+          "pitch": "Améliorer l'interface « demandeur- agent traitant » d'enregistrement des demandes de bourses scolaires  AEFE pour diminuer le temps de traitement pour le demandeur et pour l'agent traitant",
+          "phase": "construction",
+          "phaseStart": "2022-08-11",
+          "value": 3
+        },
+        {
+          "id": "disinfo",
+          "name": "Disinfo",
+          "pitch": "Réduire les vulnérabilités aux manipulations de l’information",
+          "repository": "https://github.com/ambanum/",
+          "link": "https://disinfo.quaidorsay.fr",
+          "phase": "construction",
+          "phaseStart": "2019-03-01",
+          "value": 5
+        },
+        {
+          "id": "expresso",
+          "name": "Expresso",
+          "pitch": "Faciliter la gestion des ressources humaines dans les établissements à autonomie finanière",
+          "phase": "acceleration",
+          "phaseStart": "2022-09-01",
+          "value": 2
+        },
+        {
+          "id": "open-terms-archive",
+          "name": "Open Terms Archive",
+          "pitch": "Rééquilibrer le rapport de force entre les fournisseurs de services en ligne et leurs usagers.",
+          "repository": "https://github.com/OpenTermsArchive/",
+          "link": "https://opentermsarchive.org",
+          "phase": "acceleration",
+          "phaseStart": "2022-01-01",
+          "value": 5
+        },
+        {
+          "id": "setaccords",
+          "name": "Setaccords",
+          "pitch": "Faciliter la gestion des accords et traités",
+          "phase": "investigation",
+          "phaseStart": "2021-09-15",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Lab MI",
+      "children": [
+        {
+          "id": "candilib",
+          "name": "CandiLib",
+          "pitch": "Réserver simplement sa place d'examen pratique au permis de conduire",
+          "repository": "https://github.com/LAB-MI/candilibV2",
+          "link": "https://beta.interieur.gouv.fr/candilib/",
+          "phase": "alumni",
+          "phaseStart": "2021-01-15",
+          "value": 7
+        },
+        {
+          "id": "covoit'scelles",
+          "name": "Covoit'Scellés",
+          "pitch": "Faciliter le co-voiturage de scellés pour la Police et la Gendarmerie",
+          "phase": "alumni",
+          "phaseStart": "2020-06-08",
+          "value": 2
+        },
+        {
+          "id": "dialogue.operationnel",
+          "name": "Dialogue opérationnel",
+          "pitch": "Faciliter la concertation et la remontée des besoins collectifs et individuels des agents de la police nationale",
+          "phase": "investigation",
+          "phaseStart": "2021-09-13",
+          "value": 5
+        },
+        {
+          "id": "fedel",
+          "name": "FEDEL-DM",
+          "pitch": "Déclarer facilement sa manifestation sur la voie publique",
+          "phase": "alumni",
+          "phaseStart": "2022-05-02",
+          "value": 3
+        },
+        {
+          "id": "histovec",
+          "name": "HistoVec",
+          "pitch": "Acheter un véhicule d'occasion en confiance en connaissant son historique",
+          "repository": "https://github.com/histovec",
+          "link": "https://histovec.interieur.gouv.fr",
+          "phase": "alumni",
+          "phaseStart": "2019-07-01",
+          "value": 3
+        },
+        {
+          "id": "jesaisfaire",
+          "name": "JeSaisFaire",
+          "pitch": "Réconcilier acheteurs et PME avec les marchés publics.",
+          "phase": "alumni",
+          "phaseStart": "2020-06-08",
+          "value": 2
+        },
+        {
+          "id": "polex",
+          "name": "Polex",
+          "pitch": "Détecter et suivre les fraudes à l’examen du permis de conduire",
+          "phase": "alumni",
+          "phaseStart": "2022-05-02",
+          "value": 3
+        },
+        {
+          "id": "psij",
+          "name": "PSIJ",
+          "pitch": "Systématiser la recherche d'indices et traces",
+          "link": "",
+          "phase": "construction",
+          "phaseStart": "2020-02-01",
+          "value": 11
+        },
+        {
+          "id": "psp",
+          "name": "Portail Suivi Plaintes",
+          "pitch": "Suivre sa plainte en ligne.",
+          "phase": "alumni",
+          "phaseStart": "2020-07-05",
+          "value": 2
+        },
+        {
+          "id": "urgencevie",
+          "name": "UrgenceVie",
+          "pitch": "Sauver des vies en partageant les informations d'accès au logement",
+          "phase": "investigation",
+          "phaseStart": "2021-05-12",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "GIP Plateforme de l'inclusion",
+      "children": [
+        {
+          "id": "carnet.de.bord",
+          "name": "Carnet de bord",
+          "pitch": "Faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent ",
+          "repository": "https://github.com/SocialGouv/carnet-de-bord",
+          "link": "https://carnet-de-bord.fabrique.social.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2021-11-01",
+          "value": 13
+        },
+        {
+          "id": "chantiers.agiles",
+          "name": "Chantiers agiles",
+          "pitch": "Aider les ACI (Ateliers et chantiers d'insertion) à faire évoluer leurs modèles économiques",
+          "phase": "construction",
+          "phaseStart": "2022-10-03",
+          "value": 3
+        },
+        {
+          "id": "data-inclusion",
+          "name": "data inclusion",
+          "pitch": "le référentiel ouvert et partagé des solutions d'insertion",
+          "repository": "",
+          "link": "https://www.data.gouv.fr/fr/datasets/referentiel-de-loffre-dinsertion-liste-des-structures-et-services-dinsertion/",
+          "phase": "investigation",
+          "phaseStart": "2022-03-17",
+          "value": 4
+        },
+        {
+          "id": "data.insertion",
+          "name": "data.insertion",
+          "pitch": "Améliorer les parcours d’insertion en facilitant la circulation de données entre les acteurs",
+          "repository": "https://github.com/betagouv/rdv-insertion",
+          "link": "https://www.rdv-insertion.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2022-01-03",
+          "value": 10
+        },
+        {
+          "id": "dora",
+          "name": "DORA",
+          "pitch": "Faciliter la vie des personnes en insertion et de celles et ceux qui les accompagnent",
+          "repository": "https://github.com/betagouv/dora/",
+          "link": "https://dora.fabrique.social.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-11-01",
+          "value": 11
+        },
+        {
+          "id": "inclusion.connect",
+          "name": "Inclusion Connect",
+          "pitch": "Simplifer l’utilisation des services à destination des professionnels de l’inclusion.",
+          "repository": "https://github.com/betagouv/itou-inclusion-connect",
+          "phase": "construction",
+          "phaseStart": "2022-07-01",
+          "value": 4
+        },
+        {
+          "id": "itou",
+          "name": "Emplois de l'inclusion (ITOU)",
+          "pitch": "Favoriser la réussite pour tous",
+          "repository": "http://github.com/betagouv/itou",
+          "link": "https://emplois.inclusion.beta.gouv.fr/",
+          "phase": "acceleration",
+          "phaseStart": "2020-07-10",
+          "value": 39
+        },
+        {
+          "id": "l-immersion-facile",
+          "name": "Immersion facilitée",
+          "pitch": "Augmenter le nombre d'immersions professionnelles pour les personnes éloignées de l'emploi",
+          "repository": "https://github.com/betagouv/l-immersion-facile",
+          "link": "https://immersion-facile.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2021-07-16",
+          "value": 22
+        },
+        {
+          "id": "la.communaute.de.linclusion",
+          "name": "Communauté de l'inclusion (ITOU)",
+          "pitch": "Faciliter les échanges entre acteurs de l’inclusion",
+          "repository": "http://github.com/betagouv/itou",
+          "link": "https://communaute.inclusion.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2020-06-01",
+          "value": 7
+        },
+        {
+          "id": "pilotage.de.linclusion",
+          "name": "Pilotage de l'inclusion (ITOU)",
+          "pitch": "Réduire la charge administrative des acteurs de l'inclusion et faciliter le pilotage des politiques publiques ",
+          "repository": "http://github.com/betagouv/itou",
+          "link": "https://pilotage.inclusion.beta.gouv.fr/",
+          "phase": "construction",
+          "phaseStart": "2020-06-01",
+          "value": 12
+        },
+        {
+          "id": "place-de-marche-inclusion",
+          "name": "Marché de l'inclusion (ITOU)",
+          "pitch": "Promouvoir l'offre commerciale des structures inclusives pour accroître leur capacité d'embauche",
+          "repository": "https://github.com/betagouv/itou-marche",
+          "link": "https://lemarche.inclusion.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2021-06-01",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Mission interministérielle pour l’apprentissage",
+      "children": [
+        {
+          "id": "catalogue-apprentissage",
+          "name": "Catalogue des formations en apprentissage",
+          "pitch": "Renforcer la collecte et la  visibilité des formations en apprentissage",
+          "repository": "https://github.com/mission-apprentissage/catalogue-apprentissage",
+          "link": "https://catalogue.apprentissage.beta.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2022-07-01",
+          "value": 14
+        },
+        {
+          "id": "dematapprentissage",
+          "name": "Le contrat d'apprentissage dématérialisé pour les employeurs publics",
+          "pitch": "Faciliter le processus administratif du dépôt de contrat d'apprentissage pour les employeurs publics",
+          "repository": "https://github.com/mission-apprentissage/cerfa",
+          "link": "https://celia.emploi.gouv.fr/",
+          "phase": "success",
+          "phaseStart": "2022-07-31",
+          "value": 5
+        },
+        {
+          "id": "la-bonne-alternance",
+          "name": "La bonne alternance",
+          "pitch": "Faciliter la mise en relation entre jeunes, entreprises et CFA",
+          "repository": "https://github.com/mission-apprentissage/labonnealternance",
+          "link": "https://labonnealternance.pole-emploi.fr",
+          "phase": "construction",
+          "phaseStart": "2018-03-19",
+          "value": 18
+        },
+        {
+          "id": "sirius",
+          "name": "Sirius",
+          "pitch": "Éclairer les jeunes et leurs parents sur l'apprentissage",
+          "phase": "investigation",
+          "phaseStart": "2020-07-01",
+          "value": 8
+        },
+        {
+          "id": "tdb-apprentissage",
+          "name": "Tableau de bord Apprentissage",
+          "pitch": "Permettre l’accès aux données clés de l’apprentissage en temps réel",
+          "link": "https://cfas.apprentissage.beta.gouv.fr",
+          "phase": "construction",
+          "phaseStart": "2021-01-01",
+          "value": 14
+        },
+        {
+          "id": "uai_siret",
+          "name": "Le référentiel UAI-SIRET",
+          "pitch": "Faciliter l’identification des organismes de formation en apprentissage",
+          "phase": "success",
+          "phaseStart": "2022-10-17",
+          "value": 5
+        },
+        {
+          "id": "voeux-apprentissage",
+          "name": "Le transfert aux CFA des vœux en apprentissage exprimés sur Affelnet",
+          "pitch": "Permettre un accompagnement accéléré des jeunes qui sortent de 3ème grâce à un transfert aux directeurs d’organismes responsables de formations en apprentissage des vœux exprimés en apprentissage ",
+          "repository": "https://github.com/mission-apprentissage/voeux-affelnet",
+          "phase": "success",
+          "phaseStart": "2022-07-01",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Incubateur du MEFR (Bercy)",
+      "children": [
+        {
+          "id": "cyberbudget",
+          "name": "CyberBudget",
+          "pitch": "Découvrir le fondement d'un budget de l'Etat par le jeu",
+          "phase": "alumni",
+          "phaseStart": "2022-01-01",
+          "value": 3
+        },
+        {
+          "id": "delphes",
+          "name": "Delphes",
+          "pitch": "Améliorer l'échange entre administration et entreprises exploitant des précurseurs chimiques",
+          "phase": "alumni",
+          "phaseStart": "2022-01-01",
+          "value": 3
+        },
+        {
+          "id": "entraides",
+          "name": "Entraide Entreprises",
+          "pitch": "Aider les chefs d’entreprises dans leurs recherches de solutions à leurs problèmes",
+          "phase": "alumni",
+          "phaseStart": "2022-01-01",
+          "value": 2
+        },
+        {
+          "id": "ie",
+          "name": "Intelligence Entreprise",
+          "pitch": "Améliorer la connaissance au moyen de l’intelligence artificielle",
+          "phase": "alumni",
+          "phaseStart": "2022-01-01",
+          "value": 3
+        },
+        {
+          "id": "legistix",
+          "name": "Légistix",
+          "pitch": "Aider les rédacteurs à produire et à corriger les textes normatifs",
+          "phase": "alumni",
+          "phaseStart": "2022-01-01",
+          "value": 1
+        },
+        {
+          "id": "place-des-entreprises",
+          "name": "Place des Entreprises",
+          "pitch": "Mettre en relation les TPE & PME et le bon interlocuteur",
+          "repository": "https://github.com/betagouv/place-des-entreprises",
+          "link": "https://place-des-entreprises.beta.gouv.fr",
+          "phase": "acceleration",
+          "phaseStart": "2017-04-03",
+          "value": 16
+        },
+        {
+          "id": "proconnect",
+          "name": "ProConnect",
+          "pitch": "Simplifier la gestion de l'identité numérique des entreprises sur les portails publics",
+          "phase": "alumni",
+          "phaseStart": "2020-09-15",
+          "value": 3
+        },
+        {
+          "id": "signalement",
+          "name": "SignalConso",
+          "pitch": "Faire baisser le nombre d'anomalies rencontrées par les consommateurs",
+          "repository": "https://github.com/betagouv/signalconso-published",
+          "link": "https://signal.conso.gouv.fr",
+          "phase": "success",
+          "phaseStart": "2022-01-01",
+          "value": 11
+        },
+        {
+          "id": "signaux-faibles",
+          "name": "Signaux Faibles",
+          "pitch": "Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté",
+          "repository": "https://github.com/signaux-faibles",
+          "phase": "acceleration",
+          "phaseStart": "2020-03-01",
+          "value": 21
+        }
+      ]
+    },
+    {
+      "name": "L'Accélérateur de la transition écologique",
+      "children": [
+        {
+          "id": "datagir",
+          "name": "Datagir",
+          "pitch": "Apporter l'information environnementale au plus près des citoyens",
+          "repository": "https://github.com/datagir/datagir-site",
+          "link": "https://datagir.ademe.fr/",
+          "phase": "success",
+          "phaseStart": "2022-06-13",
+          "value": 15
+        },
+        {
+          "id": "la.bonne.renov",
+          "name": "La Bonne Rénov'",
+          "pitch": "Encourager à la rénovation performante des logements ",
+          "phase": "construction",
+          "phaseStart": "2022-11-01",
+          "value": 5
+        },
+        {
+          "id": "rafraichir.les.villes",
+          "name": "Rafraîchir les villes",
+          "pitch": "Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables",
+          "phase": "construction",
+          "phaseStart": "2022-09-26",
+          "value": 4
+        },
+        {
+          "id": "territoires-en-transitions",
+          "name": "Territoires en Transitions",
+          "pitch": "Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique",
+          "repository": "https://github.com/betagouv/territoires-en-transitions",
+          "link": "https://territoiresentransitions.fr/",
+          "phase": "construction",
+          "phaseStart": "2020-11-03",
+          "value": 15
+        }
+      ]
+    }
+  ]
+}
